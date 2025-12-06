@@ -1,0 +1,1048 @@
+2025-12-06 00:05:12 [INFO] Starting IMAP fetch_and_predict run
+2025-12-06 00:05:16 [INFO] 2629 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: UM IT PRIVATE LIMITED - Cybersecurity Intern and more
+2025-12-06 00:05:17 [INFO] 2630 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.5001 | Why hirinng managerrs love this 6-lettr word
+2025-12-06 00:05:17 [INFO] 2631 | redBus <greetings@travel.e-redbus.in> | phishing | 0.6451 | Nethra, book your trip in 3, 2, 1… NOW!
+2025-12-06 00:05:18 [INFO] 2632 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5178 | 🚀 India’s GDP Rises; Tata Motors & Mahindra Shine, GST Collections Decline
+2025-12-06 00:05:19 [INFO] 2633 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7929 | Match Your Resume to Job Description in 4 Steps
+2025-12-06 00:05:19 [INFO] 2634 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.7699 | Amar, your order has been recieved
+2025-12-06 00:05:20 [INFO] 2635 | "Instagram" <security@mail.instagram.com> | phishing | 0.9445 | sanja.na31, we've made it easy to get back on Instagram
+2025-12-06 00:05:20 [INFO] 2636 | "McAfee" <info@protect.mcafee.com> | phishing | 0.9598 | Your online connection may be exposed!
+2025-12-06 00:05:21 [INFO] 2637 | Amay Vikram Singh <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 00:05:21 [INFO] 2638 | Naukri Campus <alertnc@naukri.com> | legitimate | 0.4647 | Feedback on your Naukri job applies done since last week
+2025-12-06 00:05:22 [INFO] 2639 | Apple <News@InsideApple.Apple.com> | phishing | 0.5795 | 🎁 Make their holiday one of a kind.
+2025-12-06 00:05:23 [INFO] 2640 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 00:05:23 [INFO] 2641 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 00:05:24 [INFO] 2642 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 00:05:24 [INFO] 2643 | Epic Games <help@acct.epicgames.com> | phishing | 0.6638 | Your two-factor sign in code 
+2025-12-06 00:05:25 [INFO] 2644 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “software engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 00:05:25 [INFO] 2645 | LinkedIn <notifications-noreply@linkedin.com> | legitimate | 0.4622 | Amar, your weekly recap: 36 impressions last week
+2025-12-06 00:05:26 [INFO] 2646 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “engineer”: Crossing Hurdles - Software Engineer | Remote | Mercor and more
+2025-12-06 00:05:27 [INFO] 2647 | LinkedIn <updates-noreply@linkedin.com> | legitimate | 0.2144 | AMAR KUMAR recently posted
+2025-12-06 00:05:27 [INFO] 2648 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.3375 | 💥 Airtel, HUL & Maruti in Focus; SPARC Jumps 20%, Bajaj Housing Tanks
+2025-12-06 00:05:28 [INFO] 2649 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.5061 | Resume AI
+2025-12-06 00:05:28 [INFO] 2650 | Social Media DSU <social-media@dsu.edu.in> | legitimate | 0.1494 | Share Your Achievements with the DSU Social Media Team
+2025-12-06 00:05:29 [INFO] 2651 | Naukri Campus <engagenc@naukri.com> | phishing | 0.5061 | Amar Your resume is ready to download!
+2025-12-06 00:05:30 [INFO] 2652 | OneDrive <no-reply@onedrive.com> | phishing | 0.5061 | Many files were recently deleted from your OneDrive
+2025-12-06 00:05:30 [INFO] 2653 | Bhagyalaxmi Sanikop via LinkedIn <invitations@linkedin.com> | legitimate | 0.3677 | Bhagyalaxmi accepted your invitation, explore their network
+2025-12-06 00:05:31 [INFO] 2654 | Google <no-reply@accounts.google.com> | phishing | 0.881 | Security alert
+2025-12-06 00:05:31 [INFO] 2655 | Naukri Alerts <eventnc@naukri.com> | phishing | 0.6731 | New Experts speak session is open for registration !!
+2025-12-06 00:05:32 [INFO] 2656 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 00:11:24 [INFO] Starting IMAP fetch_and_predict run
+2025-12-06 00:11:29 [INFO] 2629 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: UM IT PRIVATE LIMITED - Cybersecurity Intern and more
+2025-12-06 00:11:29 [INFO] 2630 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.5001 | Why hirinng managerrs love this 6-lettr word
+2025-12-06 00:11:30 [INFO] 2631 | redBus <greetings@travel.e-redbus.in> | phishing | 0.6451 | Nethra, book your trip in 3, 2, 1… NOW!
+2025-12-06 00:11:30 [INFO] 2632 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5178 | 🚀 India’s GDP Rises; Tata Motors & Mahindra Shine, GST Collections Decline
+2025-12-06 00:11:31 [INFO] 2633 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7929 | Match Your Resume to Job Description in 4 Steps
+2025-12-06 00:11:32 [INFO] 2634 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.7699 | Amar, your order has been recieved
+2025-12-06 00:11:32 [INFO] 2635 | "Instagram" <security@mail.instagram.com> | phishing | 0.9445 | sanja.na31, we've made it easy to get back on Instagram
+2025-12-06 00:11:33 [INFO] 2636 | "McAfee" <info@protect.mcafee.com> | phishing | 0.9598 | Your online connection may be exposed!
+2025-12-06 00:11:33 [INFO] 2637 | Amay Vikram Singh <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 00:11:34 [INFO] 2638 | Naukri Campus <alertnc@naukri.com> | legitimate | 0.4647 | Feedback on your Naukri job applies done since last week
+2025-12-06 00:11:34 [INFO] 2639 | Apple <News@InsideApple.Apple.com> | phishing | 0.5795 | 🎁 Make their holiday one of a kind.
+2025-12-06 00:11:35 [INFO] 2640 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 00:11:36 [INFO] 2641 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 00:11:36 [INFO] 2642 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 00:11:36 [INFO] 2643 | Epic Games <help@acct.epicgames.com> | phishing | 0.6638 | Your two-factor sign in code 
+2025-12-06 00:11:37 [INFO] 2644 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “software engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 00:11:38 [INFO] 2645 | LinkedIn <notifications-noreply@linkedin.com> | legitimate | 0.4622 | Amar, your weekly recap: 36 impressions last week
+2025-12-06 00:11:38 [INFO] 2646 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “engineer”: Crossing Hurdles - Software Engineer | Remote | Mercor and more
+2025-12-06 00:11:39 [INFO] 2647 | LinkedIn <updates-noreply@linkedin.com> | legitimate | 0.2144 | AMAR KUMAR recently posted
+2025-12-06 00:11:40 [INFO] 2648 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.3375 | 💥 Airtel, HUL & Maruti in Focus; SPARC Jumps 20%, Bajaj Housing Tanks
+2025-12-06 00:11:40 [INFO] 2649 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.5061 | Resume AI
+2025-12-06 00:11:41 [INFO] 2650 | Social Media DSU <social-media@dsu.edu.in> | legitimate | 0.1494 | Share Your Achievements with the DSU Social Media Team
+2025-12-06 00:11:41 [INFO] 2651 | Naukri Campus <engagenc@naukri.com> | phishing | 0.5061 | Amar Your resume is ready to download!
+2025-12-06 00:11:42 [INFO] 2652 | OneDrive <no-reply@onedrive.com> | phishing | 0.5061 | Many files were recently deleted from your OneDrive
+2025-12-06 00:11:42 [INFO] 2653 | Bhagyalaxmi Sanikop via LinkedIn <invitations@linkedin.com> | legitimate | 0.3677 | Bhagyalaxmi accepted your invitation, explore their network
+2025-12-06 00:11:43 [INFO] 2654 | Google <no-reply@accounts.google.com> | phishing | 0.881 | Security alert
+2025-12-06 00:11:43 [INFO] 2655 | Naukri Alerts <eventnc@naukri.com> | phishing | 0.6731 | New Experts speak session is open for registration !!
+2025-12-06 00:11:44 [INFO] 2656 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 00:12:02 [INFO] 2657 | "Ms. Dharshini M" <dharshini@dsu.edu.in> | phishing | 0.7281 | Study in Austria – Your Pathway to a Global Career
+2025-12-06 00:12:03 [INFO] 2658 | Naukri Campus <eventnc@naukri.com> | phishing | 0.6731 | Amar, new contests for you to try
+2025-12-06 00:12:04 [INFO] 2659 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 00:12:04 [INFO] 2660 | Canva <marketing@engage.canva.com> | phishing | 0.6837 | Turn your designs into thoughtful holiday gifts 🎁
+2025-12-06 00:12:05 [INFO] 2661 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: Microsoft - Software Engineer and more
+2025-12-06 00:12:05 [INFO] 2662 | Angel One <campaign@angelbroking.in> | phishing | 0.5629 | 📈 Stay market-ready — here’s your update
+2025-12-06 00:12:06 [INFO] 2663 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.6764 | The ‘hidden’ language employers want you to speak
+2025-12-06 00:12:06 [INFO] 2664 | Glassdoor <noreply@glassdoor.com> | phishing | 0.9396 | Finish setting up your account
+2025-12-06 00:12:07 [INFO] 2665 | Perplexity <team@mail.perplexity.ai> | phishing | 0.7501 | See what Comet for Android can do
+2025-12-06 00:12:07 [INFO] 2666 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6611 | Senior Full Stack Engineer at Optum and 10 more jobs in Bengaluru for
+ you. Apply Now.
+2025-12-06 00:12:08 [INFO] 2667 | Cutshort Team <notify@cutshort.io> | phishing | 0.875 | Amar, here's your OTP to verify your email address on Cutshort
+2025-12-06 00:12:08 [INFO] 2668 | Andrew Rose <andrew+69302ee512e19e829806fe2c@reply.cutshort.io> | phishing | 0.5061 | RE: LLM Internship (Remote) at Springer Capital
+2025-12-06 00:12:09 [INFO] 2669 | Synorus Admin <synorus+6930300412e19e82980f4222@reply.cutshort.io> | phishing | 0.5061 | RE: AI Engineer Intern (Face-Swap / Deepfake Video Model) at Synorus
+2025-12-06 00:12:09 [INFO] 2670 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7917 | Sr Software Engineer (Cloud Security) at Invicta Learning and 11 more
+ jobs in Bengaluru for you. Apply Now.
+2025-12-06 00:12:10 [INFO] 2671 | Ahana Chatterjee <ahana+6930303412e19e82981150b1@reply.cutshort.io> | phishing | 0.5061 | RE: Developer Intern at Zenawn
+2025-12-06 00:12:10 [INFO] 2672 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Your resume, your way
+2025-12-06 00:12:11 [INFO] 2673 | Glassdoor <info@glassdoor.com> | legitimate | 0.2661 | Welcome! Want even more good stuff?
+2025-12-06 00:12:11 [INFO] 2674 | "Nikunj from Cutshort" <nikunj@cutshort.io> | phishing | 0.5627 | Welcome to Cutshort, Amar
+2025-12-06 00:12:12 [INFO] 2675 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.5061 | Amar H M, Top Openings for Intern
+2025-12-06 00:12:12 [INFO] 2676 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 00:12:13 [INFO] 2677 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 00:12:13 [INFO] 2678 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Engineer in Bengaluru, Karnataka, India
+ has been created
+2025-12-06 00:12:14 [INFO] 2679 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 00:12:15 [INFO] 2680 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Software Engineer in Bengaluru, Karnataka,
+ India has been created
+2025-12-06 00:12:15 [INFO] 2681 | Ananya Vishwanath <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 00:12:16 [INFO] 2682 | Bank Of India <promotions@communications.bankofindia.co.in> | phishing | 0.7481 | Cyber Security Awareness: Cyber Jagarookta Diwas December 2025
+2025-12-06 00:12:16 [INFO] 2683 | Sandli Srivastava <sandli+6930f9f3a816910dfff8ed29@reply.cutshort.io> | phishing | 0.5061 | Software Craftsperson Internship at Incubyte
+2025-12-06 00:12:17 [INFO] 2684 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8308 | “engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 00:12:18 [INFO] 2685 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineering and more
+2025-12-06 00:12:18 [INFO] 2686 | Andrew Rose <andrew+6931345c197646469b79223a@reply.cutshort.io> | phishing | 0.5061 | Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 00:12:19 [INFO] 2687 | Khushi Kesharwani <invitations@linkedin.com> | legitimate | 0.4835 | You have an invitation
+2025-12-06 00:12:19 [INFO] 2688 | Sarah from pdfFiller <sarah@pdffiller.com> | phishing | 0.6587 | Collaborative PDF editing—Simplified ✅
+2025-12-06 00:12:20 [INFO] 2689 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: Wake Up Whistle - Data Analyst Associate – Data Cleaning • Visualization Design • Trend Forecasting and more
+2025-12-06 00:12:20 [INFO] 2690 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.8435 | Why 88% of resumes never get read
+2025-12-06 00:12:21 [INFO] 2691 | Internshala <student@internshala.com> | phishing | 0.6649 | Your profile is a perfect match for these 'Web Development' opportunities
+2025-12-06 00:12:22 [INFO] 2692 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: SAP - Machine Learning Engineer and more
+2025-12-06 00:12:22 [INFO] 2693 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6918 | Sr Machine Learning Engineer at PayPal and 10 more jobs in Bengaluru
+ for you. Apply Now.
+2025-12-06 00:12:23 [INFO] 2694 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5124 | 🚀 Top Headlines: India Cements jumps, Petronet inks ONGC deal, IndiGo hit by mass cancellations
+2025-12-06 00:12:23 [INFO] 2695 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7541 | Faster applications, better results
+2025-12-06 00:12:24 [INFO] 2696 | Glassdoor <info@glassdoor.com> | phishing | 0.5324 | Going somewhere? Take Glassdoor with you.
+2025-12-06 00:12:24 [INFO] 2697 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: SalesDuo, Inc. - Software Engineer and more
+2025-12-06 00:12:25 [INFO] 2698 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.753 | Update: Your CV needs to be updated to add this..
+2025-12-06 00:12:25 [INFO] 2699 | Roboflow Growth Team <growth@roboflow.com> | legitimate | 0.4127 | One day remaining on your Premium trial
+2025-12-06 00:12:26 [INFO] 2700 | Roboflow Team <hello@roboflow.com> | legitimate | 0.3084 | Use Gemini 3 Pro free on playground
+2025-12-06 00:12:26 [INFO] 2701 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 00:12:27 [INFO] 2702 | Google <no-reply@accounts.google.com> | phishing | 0.9089 | Critical security alert
+2025-12-06 00:12:28 [INFO] 2703 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.7657 | “engineer”: CodeRound AI - AI Engineer ($40K - $55K) and more
+2025-12-06 00:12:28 [INFO] 2704 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 00:12:29 [INFO] 2705 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 00:12:29 [INFO] 2706 | GitHub <noreply@github.com> | legitimate | 0.4664 | [GitHub] Sudo email verification code
+2025-12-06 00:12:30 [INFO] 2707 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8344 | “software engineer”: Microsoft - Software Engineer II and more
+2025-12-06 00:12:31 [INFO] 2708 | LinkedIn <jobs-noreply@linkedin.com> | phishing | 0.6837 | Your application was viewed by HEProAI
+2025-12-06 00:12:31 [INFO] 2709 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.6731 | Amar H M, New Job Opportunities for Intern
+2025-12-06 00:12:32 [INFO] 2710 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 00:12:32 [INFO] 2711 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Software Craftsperson Internship at Incubyte
+2025-12-06 00:12:33 [INFO] 2712 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.3544 | Welcome to Paperpal! Let's get you started
+2025-12-06 00:12:33 [INFO] 2713 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8497 | “engineer”: Intel Corporation - Product Development Engineer and more
+2025-12-06 00:12:34 [INFO] 2714 | Internshala <student@internshala.com> | phishing | 0.5316 | Top opportunities of the week matching your profile
+2025-12-06 00:12:35 [INFO] 2715 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SuperKalam (YC W23) - AI/ML research (Internship) and more
+2025-12-06 00:12:35 [INFO] 2716 | Shell GO+ <goplusindia@shell.com> | phishing | 0.5709 | Take full advantage of your rewards with Shell Asia app
+2025-12-06 00:12:36 [INFO] 2717 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7079 | Machine Learning Engineer at Yo quiero Yo puedo and 10 more jobs in
+ Bengaluru for you. Apply Now.
+2025-12-06 00:12:36 [INFO] 2718 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.2904 | 📉 RBI Cuts Rates, Renewables Rise, HUL & IndiGo Under Pressure
+2025-12-06 00:12:37 [INFO] 2719 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Track the Status of Every Job Application with Teal
+2025-12-06 00:12:37 [INFO] 2720 | Glassdoor <info@glassdoor.com> | legitimate | 0.2348 | Did you leave money on the table?
+2025-12-06 00:12:38 [INFO] 2721 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 00:12:38 [INFO] 2722 | LinkedIn via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3632 | The tools, trends, and stories shaping your next career move
+2025-12-06 00:12:39 [INFO] 2723 | Gemini via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3551 | Bank of America and Vanguard Warm to Crypto, Goldman Strikes Deal
+ for ETF Issuer, and Strategy Sets Up $1.4B Reserve
+2025-12-06 00:12:40 [INFO] 2724 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.394 | Bring out your best writing with Paperpal
+2025-12-06 00:12:40 [INFO] 2725 | "Coursera" <Coursera@m.learn.coursera.org> | phishing | 0.5344 | New for you: Practical Machine Learning: Foundations to Neural Networks
+2025-12-06 00:12:41 [INFO] 2726 | Google <no-reply@accounts.google.com> | phishing | 0.9264 | Security alert
+2025-12-06 00:12:41 [INFO] 2727 | Google <no-reply@accounts.google.com> | phishing | 0.9385 | Security alert
+2025-12-06 00:12:42 [INFO] 2728 | Microsoft account team
+	<account-security-noreply@accountprotection.microsoft.com> | phishing | 0.9023 | Personal Microsoft account password reset
+2025-12-06 00:12:43 [INFO] Completed IMAP fetch_and_predict run
+2025-12-06 00:16:13 [INFO] Starting IMAP fetch_and_predict run
+2025-12-06 00:16:16 [INFO] 2629 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: UM IT PRIVATE LIMITED - Cybersecurity Intern and more
+2025-12-06 00:16:17 [INFO] 2630 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.5001 | Why hirinng managerrs love this 6-lettr word
+2025-12-06 00:16:17 [INFO] 2631 | redBus <greetings@travel.e-redbus.in> | phishing | 0.6451 | Nethra, book your trip in 3, 2, 1… NOW!
+2025-12-06 00:16:18 [INFO] 2632 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5178 | 🚀 India’s GDP Rises; Tata Motors & Mahindra Shine, GST Collections Decline
+2025-12-06 00:16:18 [INFO] 2633 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7929 | Match Your Resume to Job Description in 4 Steps
+2025-12-06 00:16:19 [INFO] 2634 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.7699 | Amar, your order has been recieved
+2025-12-06 00:16:19 [INFO] 2635 | "Instagram" <security@mail.instagram.com> | phishing | 0.9445 | sanja.na31, we've made it easy to get back on Instagram
+2025-12-06 00:16:20 [INFO] 2636 | "McAfee" <info@protect.mcafee.com> | phishing | 0.9598 | Your online connection may be exposed!
+2025-12-06 00:16:20 [INFO] 2637 | Amay Vikram Singh <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 00:16:21 [INFO] 2638 | Naukri Campus <alertnc@naukri.com> | legitimate | 0.4647 | Feedback on your Naukri job applies done since last week
+2025-12-06 00:16:21 [INFO] 2639 | Apple <News@InsideApple.Apple.com> | phishing | 0.5795 | 🎁 Make their holiday one of a kind.
+2025-12-06 00:16:22 [INFO] 2640 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 00:16:22 [INFO] 2641 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 00:16:23 [INFO] 2642 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 00:16:24 [INFO] 2643 | Epic Games <help@acct.epicgames.com> | phishing | 0.6638 | Your two-factor sign in code 
+2025-12-06 00:16:24 [INFO] 2644 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “software engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 00:16:25 [INFO] 2645 | LinkedIn <notifications-noreply@linkedin.com> | legitimate | 0.4622 | Amar, your weekly recap: 36 impressions last week
+2025-12-06 00:16:26 [INFO] 2646 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “engineer”: Crossing Hurdles - Software Engineer | Remote | Mercor and more
+2025-12-06 00:16:26 [INFO] 2647 | LinkedIn <updates-noreply@linkedin.com> | legitimate | 0.2144 | AMAR KUMAR recently posted
+2025-12-06 00:16:27 [INFO] 2648 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.3375 | 💥 Airtel, HUL & Maruti in Focus; SPARC Jumps 20%, Bajaj Housing Tanks
+2025-12-06 00:16:27 [INFO] 2649 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.5061 | Resume AI
+2025-12-06 00:16:28 [INFO] 2650 | Social Media DSU <social-media@dsu.edu.in> | legitimate | 0.1494 | Share Your Achievements with the DSU Social Media Team
+2025-12-06 00:16:28 [INFO] 2651 | Naukri Campus <engagenc@naukri.com> | phishing | 0.5061 | Amar Your resume is ready to download!
+2025-12-06 00:16:29 [INFO] 2652 | OneDrive <no-reply@onedrive.com> | phishing | 0.5061 | Many files were recently deleted from your OneDrive
+2025-12-06 00:16:29 [INFO] 2653 | Bhagyalaxmi Sanikop via LinkedIn <invitations@linkedin.com> | legitimate | 0.3677 | Bhagyalaxmi accepted your invitation, explore their network
+2025-12-06 00:16:30 [INFO] 2654 | Google <no-reply@accounts.google.com> | phishing | 0.881 | Security alert
+2025-12-06 00:16:30 [INFO] 2655 | Naukri Alerts <eventnc@naukri.com> | phishing | 0.6731 | New Experts speak session is open for registration !!
+2025-12-06 00:16:31 [INFO] 2656 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 00:16:49 [INFO] 2657 | "Ms. Dharshini M" <dharshini@dsu.edu.in> | phishing | 0.7281 | Study in Austria – Your Pathway to a Global Career
+2025-12-06 00:16:50 [INFO] 2658 | Naukri Campus <eventnc@naukri.com> | phishing | 0.6731 | Amar, new contests for you to try
+2025-12-06 00:16:50 [INFO] 2659 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 00:16:51 [INFO] 2660 | Canva <marketing@engage.canva.com> | phishing | 0.6837 | Turn your designs into thoughtful holiday gifts 🎁
+2025-12-06 00:16:52 [INFO] 2661 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: Microsoft - Software Engineer and more
+2025-12-06 00:16:52 [INFO] 2662 | Angel One <campaign@angelbroking.in> | phishing | 0.5629 | 📈 Stay market-ready — here’s your update
+2025-12-06 00:16:53 [INFO] 2663 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.6764 | The ‘hidden’ language employers want you to speak
+2025-12-06 00:16:53 [INFO] 2664 | Glassdoor <noreply@glassdoor.com> | phishing | 0.9396 | Finish setting up your account
+2025-12-06 00:16:54 [INFO] 2665 | Perplexity <team@mail.perplexity.ai> | phishing | 0.7501 | See what Comet for Android can do
+2025-12-06 00:16:54 [INFO] 2666 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6611 | Senior Full Stack Engineer at Optum and 10 more jobs in Bengaluru for
+ you. Apply Now.
+2025-12-06 00:16:55 [INFO] 2667 | Cutshort Team <notify@cutshort.io> | phishing | 0.875 | Amar, here's your OTP to verify your email address on Cutshort
+2025-12-06 00:16:55 [INFO] 2668 | Andrew Rose <andrew+69302ee512e19e829806fe2c@reply.cutshort.io> | phishing | 0.5061 | RE: LLM Internship (Remote) at Springer Capital
+2025-12-06 00:16:56 [INFO] 2669 | Synorus Admin <synorus+6930300412e19e82980f4222@reply.cutshort.io> | phishing | 0.5061 | RE: AI Engineer Intern (Face-Swap / Deepfake Video Model) at Synorus
+2025-12-06 00:16:56 [INFO] 2670 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7917 | Sr Software Engineer (Cloud Security) at Invicta Learning and 11 more
+ jobs in Bengaluru for you. Apply Now.
+2025-12-06 00:16:57 [INFO] 2671 | Ahana Chatterjee <ahana+6930303412e19e82981150b1@reply.cutshort.io> | phishing | 0.5061 | RE: Developer Intern at Zenawn
+2025-12-06 00:16:57 [INFO] 2672 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Your resume, your way
+2025-12-06 00:16:58 [INFO] 2673 | Glassdoor <info@glassdoor.com> | legitimate | 0.2661 | Welcome! Want even more good stuff?
+2025-12-06 00:16:58 [INFO] 2674 | "Nikunj from Cutshort" <nikunj@cutshort.io> | phishing | 0.5627 | Welcome to Cutshort, Amar
+2025-12-06 00:16:59 [INFO] 2675 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.5061 | Amar H M, Top Openings for Intern
+2025-12-06 00:16:59 [INFO] 2676 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 00:17:00 [INFO] 2677 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 00:17:00 [INFO] 2678 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Engineer in Bengaluru, Karnataka, India
+ has been created
+2025-12-06 00:17:01 [INFO] 2679 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 00:17:02 [INFO] 2680 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Software Engineer in Bengaluru, Karnataka,
+ India has been created
+2025-12-06 00:17:02 [INFO] 2681 | Ananya Vishwanath <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 00:17:03 [INFO] 2682 | Bank Of India <promotions@communications.bankofindia.co.in> | phishing | 0.7481 | Cyber Security Awareness: Cyber Jagarookta Diwas December 2025
+2025-12-06 00:17:03 [INFO] 2683 | Sandli Srivastava <sandli+6930f9f3a816910dfff8ed29@reply.cutshort.io> | phishing | 0.5061 | Software Craftsperson Internship at Incubyte
+2025-12-06 00:17:04 [INFO] 2684 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8308 | “engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 00:17:04 [INFO] 2685 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineering and more
+2025-12-06 00:17:05 [INFO] 2686 | Andrew Rose <andrew+6931345c197646469b79223a@reply.cutshort.io> | phishing | 0.5061 | Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 00:17:05 [INFO] 2687 | Khushi Kesharwani <invitations@linkedin.com> | legitimate | 0.4835 | You have an invitation
+2025-12-06 00:17:06 [INFO] 2688 | Sarah from pdfFiller <sarah@pdffiller.com> | phishing | 0.6587 | Collaborative PDF editing—Simplified ✅
+2025-12-06 00:17:07 [INFO] 2689 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: Wake Up Whistle - Data Analyst Associate – Data Cleaning • Visualization Design • Trend Forecasting and more
+2025-12-06 00:17:07 [INFO] 2690 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.8435 | Why 88% of resumes never get read
+2025-12-06 00:17:08 [INFO] 2691 | Internshala <student@internshala.com> | phishing | 0.6649 | Your profile is a perfect match for these 'Web Development' opportunities
+2025-12-06 00:17:08 [INFO] 2692 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: SAP - Machine Learning Engineer and more
+2025-12-06 00:17:09 [INFO] 2693 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6918 | Sr Machine Learning Engineer at PayPal and 10 more jobs in Bengaluru
+ for you. Apply Now.
+2025-12-06 00:17:10 [INFO] 2694 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5124 | 🚀 Top Headlines: India Cements jumps, Petronet inks ONGC deal, IndiGo hit by mass cancellations
+2025-12-06 00:17:10 [INFO] 2695 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7541 | Faster applications, better results
+2025-12-06 00:17:11 [INFO] 2696 | Glassdoor <info@glassdoor.com> | phishing | 0.5324 | Going somewhere? Take Glassdoor with you.
+2025-12-06 00:17:11 [INFO] 2697 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: SalesDuo, Inc. - Software Engineer and more
+2025-12-06 00:17:12 [INFO] 2698 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.753 | Update: Your CV needs to be updated to add this..
+2025-12-06 00:17:12 [INFO] 2699 | Roboflow Growth Team <growth@roboflow.com> | legitimate | 0.4127 | One day remaining on your Premium trial
+2025-12-06 00:17:13 [INFO] 2700 | Roboflow Team <hello@roboflow.com> | legitimate | 0.3084 | Use Gemini 3 Pro free on playground
+2025-12-06 00:17:13 [INFO] 2701 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 00:17:14 [INFO] 2702 | Google <no-reply@accounts.google.com> | phishing | 0.9089 | Critical security alert
+2025-12-06 00:17:14 [INFO] 2703 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.7657 | “engineer”: CodeRound AI - AI Engineer ($40K - $55K) and more
+2025-12-06 00:17:15 [INFO] 2704 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 00:17:15 [INFO] 2705 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 00:17:16 [INFO] 2706 | GitHub <noreply@github.com> | legitimate | 0.4664 | [GitHub] Sudo email verification code
+2025-12-06 00:17:17 [INFO] 2707 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8344 | “software engineer”: Microsoft - Software Engineer II and more
+2025-12-06 00:17:17 [INFO] 2708 | LinkedIn <jobs-noreply@linkedin.com> | phishing | 0.6837 | Your application was viewed by HEProAI
+2025-12-06 00:17:18 [INFO] 2709 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.6731 | Amar H M, New Job Opportunities for Intern
+2025-12-06 00:17:19 [INFO] 2710 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 00:17:19 [INFO] 2711 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Software Craftsperson Internship at Incubyte
+2025-12-06 00:17:20 [INFO] 2712 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.3544 | Welcome to Paperpal! Let's get you started
+2025-12-06 00:17:21 [INFO] 2713 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8497 | “engineer”: Intel Corporation - Product Development Engineer and more
+2025-12-06 00:17:21 [INFO] 2714 | Internshala <student@internshala.com> | phishing | 0.5316 | Top opportunities of the week matching your profile
+2025-12-06 00:17:22 [INFO] 2715 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SuperKalam (YC W23) - AI/ML research (Internship) and more
+2025-12-06 00:17:22 [INFO] 2716 | Shell GO+ <goplusindia@shell.com> | phishing | 0.5709 | Take full advantage of your rewards with Shell Asia app
+2025-12-06 00:17:23 [INFO] 2717 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7079 | Machine Learning Engineer at Yo quiero Yo puedo and 10 more jobs in
+ Bengaluru for you. Apply Now.
+2025-12-06 00:17:24 [INFO] 2718 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.2904 | 📉 RBI Cuts Rates, Renewables Rise, HUL & IndiGo Under Pressure
+2025-12-06 00:17:24 [INFO] 2719 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Track the Status of Every Job Application with Teal
+2025-12-06 00:17:25 [INFO] 2720 | Glassdoor <info@glassdoor.com> | legitimate | 0.2348 | Did you leave money on the table?
+2025-12-06 00:17:25 [INFO] 2721 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 00:17:26 [INFO] 2722 | LinkedIn via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3632 | The tools, trends, and stories shaping your next career move
+2025-12-06 00:17:26 [INFO] 2723 | Gemini via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3551 | Bank of America and Vanguard Warm to Crypto, Goldman Strikes Deal
+ for ETF Issuer, and Strategy Sets Up $1.4B Reserve
+2025-12-06 00:17:27 [INFO] 2724 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.394 | Bring out your best writing with Paperpal
+2025-12-06 00:17:28 [INFO] 2725 | "Coursera" <Coursera@m.learn.coursera.org> | phishing | 0.5344 | New for you: Practical Machine Learning: Foundations to Neural Networks
+2025-12-06 00:17:28 [INFO] 2726 | Google <no-reply@accounts.google.com> | phishing | 0.9264 | Security alert
+2025-12-06 00:17:29 [INFO] 2727 | Google <no-reply@accounts.google.com> | phishing | 0.9385 | Security alert
+2025-12-06 00:17:29 [INFO] 2728 | Microsoft account team
+	<account-security-noreply@accountprotection.microsoft.com> | phishing | 0.9023 | Personal Microsoft account password reset
+2025-12-06 00:17:30 [INFO] Completed IMAP fetch_and_predict run
+2025-12-06 00:18:25 [INFO] Starting IMAP fetch_and_predict run
+2025-12-06 00:18:29 [INFO] 2629 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: UM IT PRIVATE LIMITED - Cybersecurity Intern and more
+2025-12-06 00:18:29 [INFO] 2630 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.5001 | Why hirinng managerrs love this 6-lettr word
+2025-12-06 00:18:30 [INFO] 2631 | redBus <greetings@travel.e-redbus.in> | phishing | 0.6451 | Nethra, book your trip in 3, 2, 1… NOW!
+2025-12-06 00:18:30 [INFO] 2632 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5178 | 🚀 India’s GDP Rises; Tata Motors & Mahindra Shine, GST Collections Decline
+2025-12-06 00:18:31 [INFO] 2633 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7929 | Match Your Resume to Job Description in 4 Steps
+2025-12-06 00:18:31 [INFO] 2634 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.7699 | Amar, your order has been recieved
+2025-12-06 00:18:32 [INFO] 2635 | "Instagram" <security@mail.instagram.com> | phishing | 0.9445 | sanja.na31, we've made it easy to get back on Instagram
+2025-12-06 00:18:32 [INFO] 2636 | "McAfee" <info@protect.mcafee.com> | phishing | 0.9598 | Your online connection may be exposed!
+2025-12-06 00:18:33 [INFO] 2637 | Amay Vikram Singh <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 00:18:33 [INFO] 2638 | Naukri Campus <alertnc@naukri.com> | legitimate | 0.4647 | Feedback on your Naukri job applies done since last week
+2025-12-06 00:18:34 [INFO] 2639 | Apple <News@InsideApple.Apple.com> | phishing | 0.5795 | 🎁 Make their holiday one of a kind.
+2025-12-06 00:18:34 [INFO] 2640 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 00:18:35 [INFO] 2641 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 00:18:35 [INFO] 2642 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 00:18:36 [INFO] 2643 | Epic Games <help@acct.epicgames.com> | phishing | 0.6638 | Your two-factor sign in code 
+2025-12-06 00:18:37 [INFO] 2644 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “software engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 00:18:37 [INFO] 2645 | LinkedIn <notifications-noreply@linkedin.com> | legitimate | 0.4622 | Amar, your weekly recap: 36 impressions last week
+2025-12-06 00:18:38 [INFO] 2646 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “engineer”: Crossing Hurdles - Software Engineer | Remote | Mercor and more
+2025-12-06 00:18:38 [INFO] 2647 | LinkedIn <updates-noreply@linkedin.com> | legitimate | 0.2144 | AMAR KUMAR recently posted
+2025-12-06 00:18:39 [INFO] 2648 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.3375 | 💥 Airtel, HUL & Maruti in Focus; SPARC Jumps 20%, Bajaj Housing Tanks
+2025-12-06 00:18:39 [INFO] 2649 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.5061 | Resume AI
+2025-12-06 00:18:40 [INFO] 2650 | Social Media DSU <social-media@dsu.edu.in> | legitimate | 0.1494 | Share Your Achievements with the DSU Social Media Team
+2025-12-06 00:18:40 [INFO] 2651 | Naukri Campus <engagenc@naukri.com> | phishing | 0.5061 | Amar Your resume is ready to download!
+2025-12-06 00:18:41 [INFO] 2652 | OneDrive <no-reply@onedrive.com> | phishing | 0.5061 | Many files were recently deleted from your OneDrive
+2025-12-06 00:18:41 [INFO] 2653 | Bhagyalaxmi Sanikop via LinkedIn <invitations@linkedin.com> | legitimate | 0.3677 | Bhagyalaxmi accepted your invitation, explore their network
+2025-12-06 00:18:42 [INFO] 2654 | Google <no-reply@accounts.google.com> | phishing | 0.881 | Security alert
+2025-12-06 00:18:42 [INFO] 2655 | Naukri Alerts <eventnc@naukri.com> | phishing | 0.6731 | New Experts speak session is open for registration !!
+2025-12-06 00:18:43 [INFO] 2656 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 00:19:02 [INFO] 2657 | "Ms. Dharshini M" <dharshini@dsu.edu.in> | phishing | 0.7281 | Study in Austria – Your Pathway to a Global Career
+2025-12-06 00:19:02 [INFO] 2658 | Naukri Campus <eventnc@naukri.com> | phishing | 0.6731 | Amar, new contests for you to try
+2025-12-06 00:19:03 [INFO] 2659 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 00:19:04 [INFO] 2660 | Canva <marketing@engage.canva.com> | phishing | 0.6837 | Turn your designs into thoughtful holiday gifts 🎁
+2025-12-06 00:19:04 [INFO] 2661 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: Microsoft - Software Engineer and more
+2025-12-06 00:19:05 [INFO] 2662 | Angel One <campaign@angelbroking.in> | phishing | 0.5629 | 📈 Stay market-ready — here’s your update
+2025-12-06 00:19:05 [INFO] 2663 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.6764 | The ‘hidden’ language employers want you to speak
+2025-12-06 00:19:06 [INFO] 2664 | Glassdoor <noreply@glassdoor.com> | phishing | 0.9396 | Finish setting up your account
+2025-12-06 00:19:07 [INFO] 2665 | Perplexity <team@mail.perplexity.ai> | phishing | 0.7501 | See what Comet for Android can do
+2025-12-06 00:19:07 [INFO] 2666 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6611 | Senior Full Stack Engineer at Optum and 10 more jobs in Bengaluru for
+ you. Apply Now.
+2025-12-06 00:19:08 [INFO] 2667 | Cutshort Team <notify@cutshort.io> | phishing | 0.875 | Amar, here's your OTP to verify your email address on Cutshort
+2025-12-06 00:19:08 [INFO] 2668 | Andrew Rose <andrew+69302ee512e19e829806fe2c@reply.cutshort.io> | phishing | 0.5061 | RE: LLM Internship (Remote) at Springer Capital
+2025-12-06 00:19:09 [INFO] 2669 | Synorus Admin <synorus+6930300412e19e82980f4222@reply.cutshort.io> | phishing | 0.5061 | RE: AI Engineer Intern (Face-Swap / Deepfake Video Model) at Synorus
+2025-12-06 00:19:09 [INFO] 2670 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7917 | Sr Software Engineer (Cloud Security) at Invicta Learning and 11 more
+ jobs in Bengaluru for you. Apply Now.
+2025-12-06 00:19:10 [INFO] 2671 | Ahana Chatterjee <ahana+6930303412e19e82981150b1@reply.cutshort.io> | phishing | 0.5061 | RE: Developer Intern at Zenawn
+2025-12-06 00:19:10 [INFO] 2672 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Your resume, your way
+2025-12-06 00:19:11 [INFO] 2673 | Glassdoor <info@glassdoor.com> | legitimate | 0.2661 | Welcome! Want even more good stuff?
+2025-12-06 00:19:11 [INFO] 2674 | "Nikunj from Cutshort" <nikunj@cutshort.io> | phishing | 0.5627 | Welcome to Cutshort, Amar
+2025-12-06 00:19:12 [INFO] 2675 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.5061 | Amar H M, Top Openings for Intern
+2025-12-06 00:19:12 [INFO] 2676 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 00:19:13 [INFO] 2677 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 00:19:13 [INFO] 2678 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Engineer in Bengaluru, Karnataka, India
+ has been created
+2025-12-06 00:19:14 [INFO] 2679 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 00:19:15 [INFO] 2680 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Software Engineer in Bengaluru, Karnataka,
+ India has been created
+2025-12-06 00:19:15 [INFO] 2681 | Ananya Vishwanath <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 00:19:16 [INFO] 2682 | Bank Of India <promotions@communications.bankofindia.co.in> | phishing | 0.7481 | Cyber Security Awareness: Cyber Jagarookta Diwas December 2025
+2025-12-06 00:19:16 [INFO] 2683 | Sandli Srivastava <sandli+6930f9f3a816910dfff8ed29@reply.cutshort.io> | phishing | 0.5061 | Software Craftsperson Internship at Incubyte
+2025-12-06 00:19:17 [INFO] 2684 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8308 | “engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 00:19:18 [INFO] 2685 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineering and more
+2025-12-06 00:19:18 [INFO] 2686 | Andrew Rose <andrew+6931345c197646469b79223a@reply.cutshort.io> | phishing | 0.5061 | Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 00:19:19 [INFO] 2687 | Khushi Kesharwani <invitations@linkedin.com> | legitimate | 0.4835 | You have an invitation
+2025-12-06 00:19:19 [INFO] 2688 | Sarah from pdfFiller <sarah@pdffiller.com> | phishing | 0.6587 | Collaborative PDF editing—Simplified ✅
+2025-12-06 00:19:20 [INFO] 2689 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: Wake Up Whistle - Data Analyst Associate – Data Cleaning • Visualization Design • Trend Forecasting and more
+2025-12-06 00:19:20 [INFO] 2690 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.8435 | Why 88% of resumes never get read
+2025-12-06 00:19:21 [INFO] 2691 | Internshala <student@internshala.com> | phishing | 0.6649 | Your profile is a perfect match for these 'Web Development' opportunities
+2025-12-06 00:19:22 [INFO] 2692 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: SAP - Machine Learning Engineer and more
+2025-12-06 00:19:22 [INFO] 2693 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6918 | Sr Machine Learning Engineer at PayPal and 10 more jobs in Bengaluru
+ for you. Apply Now.
+2025-12-06 00:19:23 [INFO] 2694 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5124 | 🚀 Top Headlines: India Cements jumps, Petronet inks ONGC deal, IndiGo hit by mass cancellations
+2025-12-06 00:19:23 [INFO] 2695 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7541 | Faster applications, better results
+2025-12-06 00:19:24 [INFO] 2696 | Glassdoor <info@glassdoor.com> | phishing | 0.5324 | Going somewhere? Take Glassdoor with you.
+2025-12-06 00:19:25 [INFO] 2697 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: SalesDuo, Inc. - Software Engineer and more
+2025-12-06 00:19:25 [INFO] 2698 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.753 | Update: Your CV needs to be updated to add this..
+2025-12-06 00:19:26 [INFO] 2699 | Roboflow Growth Team <growth@roboflow.com> | legitimate | 0.4127 | One day remaining on your Premium trial
+2025-12-06 00:19:26 [INFO] 2700 | Roboflow Team <hello@roboflow.com> | legitimate | 0.3084 | Use Gemini 3 Pro free on playground
+2025-12-06 00:19:27 [INFO] 2701 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 00:19:27 [INFO] 2702 | Google <no-reply@accounts.google.com> | phishing | 0.9089 | Critical security alert
+2025-12-06 00:19:28 [INFO] 2703 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.7657 | “engineer”: CodeRound AI - AI Engineer ($40K - $55K) and more
+2025-12-06 00:19:28 [INFO] 2704 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 00:19:29 [INFO] 2705 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 00:19:29 [INFO] 2706 | GitHub <noreply@github.com> | legitimate | 0.4664 | [GitHub] Sudo email verification code
+2025-12-06 00:19:30 [INFO] 2707 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8344 | “software engineer”: Microsoft - Software Engineer II and more
+2025-12-06 00:19:31 [INFO] 2708 | LinkedIn <jobs-noreply@linkedin.com> | phishing | 0.6837 | Your application was viewed by HEProAI
+2025-12-06 00:19:31 [INFO] 2709 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.6731 | Amar H M, New Job Opportunities for Intern
+2025-12-06 00:19:32 [INFO] 2710 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 00:19:32 [INFO] 2711 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Software Craftsperson Internship at Incubyte
+2025-12-06 00:19:33 [INFO] 2712 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.3544 | Welcome to Paperpal! Let's get you started
+2025-12-06 00:19:34 [INFO] 2713 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8497 | “engineer”: Intel Corporation - Product Development Engineer and more
+2025-12-06 00:19:34 [INFO] 2714 | Internshala <student@internshala.com> | phishing | 0.5316 | Top opportunities of the week matching your profile
+2025-12-06 00:19:35 [INFO] 2715 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SuperKalam (YC W23) - AI/ML research (Internship) and more
+2025-12-06 00:19:35 [INFO] 2716 | Shell GO+ <goplusindia@shell.com> | phishing | 0.5709 | Take full advantage of your rewards with Shell Asia app
+2025-12-06 00:19:36 [INFO] 2717 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7079 | Machine Learning Engineer at Yo quiero Yo puedo and 10 more jobs in
+ Bengaluru for you. Apply Now.
+2025-12-06 00:19:37 [INFO] 2718 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.2904 | 📉 RBI Cuts Rates, Renewables Rise, HUL & IndiGo Under Pressure
+2025-12-06 00:19:37 [INFO] 2719 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Track the Status of Every Job Application with Teal
+2025-12-06 00:19:38 [INFO] 2720 | Glassdoor <info@glassdoor.com> | legitimate | 0.2348 | Did you leave money on the table?
+2025-12-06 00:19:38 [INFO] 2721 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 00:19:39 [INFO] 2722 | LinkedIn via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3632 | The tools, trends, and stories shaping your next career move
+2025-12-06 00:19:39 [INFO] 2723 | Gemini via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3551 | Bank of America and Vanguard Warm to Crypto, Goldman Strikes Deal
+ for ETF Issuer, and Strategy Sets Up $1.4B Reserve
+2025-12-06 00:19:40 [INFO] 2724 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.394 | Bring out your best writing with Paperpal
+2025-12-06 00:19:40 [INFO] 2725 | "Coursera" <Coursera@m.learn.coursera.org> | phishing | 0.5344 | New for you: Practical Machine Learning: Foundations to Neural Networks
+2025-12-06 00:19:41 [INFO] 2726 | Google <no-reply@accounts.google.com> | phishing | 0.9264 | Security alert
+2025-12-06 00:19:41 [INFO] 2727 | Google <no-reply@accounts.google.com> | phishing | 0.9385 | Security alert
+2025-12-06 00:19:42 [INFO] 2728 | Microsoft account team
+	<account-security-noreply@accountprotection.microsoft.com> | phishing | 0.9023 | Personal Microsoft account password reset
+2025-12-06 00:19:43 [INFO] Completed IMAP fetch_and_predict run
+2025-12-06 01:30:55 [INFO] Starting IMAP fetch_and_predict run
+2025-12-06 01:30:59 [INFO] 2629 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: UM IT PRIVATE LIMITED - Cybersecurity Intern and more
+2025-12-06 01:30:59 [INFO] 2630 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.5001 | Why hirinng managerrs love this 6-lettr word
+2025-12-06 01:31:00 [INFO] 2631 | redBus <greetings@travel.e-redbus.in> | phishing | 0.6451 | Nethra, book your trip in 3, 2, 1… NOW!
+2025-12-06 01:31:00 [INFO] 2632 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5178 | 🚀 India’s GDP Rises; Tata Motors & Mahindra Shine, GST Collections Decline
+2025-12-06 01:31:01 [INFO] 2633 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7929 | Match Your Resume to Job Description in 4 Steps
+2025-12-06 01:31:01 [INFO] 2634 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.7699 | Amar, your order has been recieved
+2025-12-06 01:31:02 [INFO] 2635 | "Instagram" <security@mail.instagram.com> | phishing | 0.9445 | sanja.na31, we've made it easy to get back on Instagram
+2025-12-06 01:31:02 [INFO] 2636 | "McAfee" <info@protect.mcafee.com> | phishing | 0.9598 | Your online connection may be exposed!
+2025-12-06 01:31:03 [INFO] 2637 | Amay Vikram Singh <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 01:31:04 [INFO] 2638 | Naukri Campus <alertnc@naukri.com> | legitimate | 0.4647 | Feedback on your Naukri job applies done since last week
+2025-12-06 01:31:04 [INFO] 2639 | Apple <News@InsideApple.Apple.com> | phishing | 0.5795 | 🎁 Make their holiday one of a kind.
+2025-12-06 01:31:05 [INFO] 2640 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 01:31:06 [INFO] 2641 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 01:31:06 [INFO] 2642 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 01:31:07 [INFO] 2643 | Epic Games <help@acct.epicgames.com> | phishing | 0.6638 | Your two-factor sign in code 
+2025-12-06 01:31:08 [INFO] 2644 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “software engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 01:31:08 [INFO] 2645 | LinkedIn <notifications-noreply@linkedin.com> | legitimate | 0.4622 | Amar, your weekly recap: 36 impressions last week
+2025-12-06 01:31:09 [INFO] 2646 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “engineer”: Crossing Hurdles - Software Engineer | Remote | Mercor and more
+2025-12-06 01:31:10 [INFO] 2647 | LinkedIn <updates-noreply@linkedin.com> | legitimate | 0.2144 | AMAR KUMAR recently posted
+2025-12-06 01:31:10 [INFO] 2648 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.3375 | 💥 Airtel, HUL & Maruti in Focus; SPARC Jumps 20%, Bajaj Housing Tanks
+2025-12-06 01:31:11 [INFO] 2649 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.5061 | Resume AI
+2025-12-06 01:31:11 [INFO] 2650 | Social Media DSU <social-media@dsu.edu.in> | legitimate | 0.1494 | Share Your Achievements with the DSU Social Media Team
+2025-12-06 01:31:12 [INFO] 2651 | Naukri Campus <engagenc@naukri.com> | phishing | 0.5061 | Amar Your resume is ready to download!
+2025-12-06 01:31:12 [INFO] 2652 | OneDrive <no-reply@onedrive.com> | phishing | 0.5061 | Many files were recently deleted from your OneDrive
+2025-12-06 01:31:13 [INFO] 2653 | Bhagyalaxmi Sanikop via LinkedIn <invitations@linkedin.com> | legitimate | 0.3677 | Bhagyalaxmi accepted your invitation, explore their network
+2025-12-06 01:31:13 [INFO] 2654 | Google <no-reply@accounts.google.com> | phishing | 0.881 | Security alert
+2025-12-06 01:31:14 [INFO] 2655 | Naukri Alerts <eventnc@naukri.com> | phishing | 0.6731 | New Experts speak session is open for registration !!
+2025-12-06 01:31:15 [INFO] 2656 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 01:31:33 [INFO] 2657 | "Ms. Dharshini M" <dharshini@dsu.edu.in> | phishing | 0.7281 | Study in Austria – Your Pathway to a Global Career
+2025-12-06 01:31:34 [INFO] 2658 | Naukri Campus <eventnc@naukri.com> | phishing | 0.6731 | Amar, new contests for you to try
+2025-12-06 01:31:35 [INFO] 2659 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 01:31:36 [INFO] 2660 | Canva <marketing@engage.canva.com> | phishing | 0.6837 | Turn your designs into thoughtful holiday gifts 🎁
+2025-12-06 01:31:36 [INFO] 2661 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: Microsoft - Software Engineer and more
+2025-12-06 01:31:37 [INFO] 2662 | Angel One <campaign@angelbroking.in> | phishing | 0.5629 | 📈 Stay market-ready — here’s your update
+2025-12-06 01:31:37 [INFO] 2663 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.6764 | The ‘hidden’ language employers want you to speak
+2025-12-06 01:31:38 [INFO] 2664 | Glassdoor <noreply@glassdoor.com> | phishing | 0.9396 | Finish setting up your account
+2025-12-06 01:31:38 [INFO] 2665 | Perplexity <team@mail.perplexity.ai> | phishing | 0.7501 | See what Comet for Android can do
+2025-12-06 01:31:40 [INFO] 2666 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6611 | Senior Full Stack Engineer at Optum and 10 more jobs in Bengaluru for
+ you. Apply Now.
+2025-12-06 01:31:40 [INFO] 2667 | Cutshort Team <notify@cutshort.io> | phishing | 0.875 | Amar, here's your OTP to verify your email address on Cutshort
+2025-12-06 01:31:41 [INFO] 2668 | Andrew Rose <andrew+69302ee512e19e829806fe2c@reply.cutshort.io> | phishing | 0.5061 | RE: LLM Internship (Remote) at Springer Capital
+2025-12-06 01:31:41 [INFO] 2669 | Synorus Admin <synorus+6930300412e19e82980f4222@reply.cutshort.io> | phishing | 0.5061 | RE: AI Engineer Intern (Face-Swap / Deepfake Video Model) at Synorus
+2025-12-06 01:31:42 [INFO] 2670 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7917 | Sr Software Engineer (Cloud Security) at Invicta Learning and 11 more
+ jobs in Bengaluru for you. Apply Now.
+2025-12-06 01:31:43 [INFO] 2671 | Ahana Chatterjee <ahana+6930303412e19e82981150b1@reply.cutshort.io> | phishing | 0.5061 | RE: Developer Intern at Zenawn
+2025-12-06 01:31:43 [INFO] 2672 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Your resume, your way
+2025-12-06 01:31:44 [INFO] 2673 | Glassdoor <info@glassdoor.com> | legitimate | 0.2661 | Welcome! Want even more good stuff?
+2025-12-06 01:31:45 [INFO] 2674 | "Nikunj from Cutshort" <nikunj@cutshort.io> | phishing | 0.5627 | Welcome to Cutshort, Amar
+2025-12-06 01:31:45 [INFO] 2675 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.5061 | Amar H M, Top Openings for Intern
+2025-12-06 01:31:46 [INFO] 2676 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:31:47 [INFO] 2677 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:31:47 [INFO] 2678 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Engineer in Bengaluru, Karnataka, India
+ has been created
+2025-12-06 01:31:48 [INFO] 2679 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:31:49 [INFO] 2680 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Software Engineer in Bengaluru, Karnataka,
+ India has been created
+2025-12-06 01:31:49 [INFO] 2681 | Ananya Vishwanath <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 01:31:50 [INFO] 2682 | Bank Of India <promotions@communications.bankofindia.co.in> | phishing | 0.7481 | Cyber Security Awareness: Cyber Jagarookta Diwas December 2025
+2025-12-06 01:31:51 [INFO] 2683 | Sandli Srivastava <sandli+6930f9f3a816910dfff8ed29@reply.cutshort.io> | phishing | 0.5061 | Software Craftsperson Internship at Incubyte
+2025-12-06 01:31:51 [INFO] 2684 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8308 | “engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 01:31:52 [INFO] 2685 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineering and more
+2025-12-06 01:31:52 [INFO] 2686 | Andrew Rose <andrew+6931345c197646469b79223a@reply.cutshort.io> | phishing | 0.5061 | Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 01:31:53 [INFO] 2687 | Khushi Kesharwani <invitations@linkedin.com> | legitimate | 0.4835 | You have an invitation
+2025-12-06 01:31:54 [INFO] 2688 | Sarah from pdfFiller <sarah@pdffiller.com> | phishing | 0.6587 | Collaborative PDF editing—Simplified ✅
+2025-12-06 01:31:54 [INFO] 2689 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: Wake Up Whistle - Data Analyst Associate – Data Cleaning • Visualization Design • Trend Forecasting and more
+2025-12-06 01:31:55 [INFO] 2690 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.8435 | Why 88% of resumes never get read
+2025-12-06 01:31:56 [INFO] 2691 | Internshala <student@internshala.com> | phishing | 0.6649 | Your profile is a perfect match for these 'Web Development' opportunities
+2025-12-06 01:31:56 [INFO] 2692 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: SAP - Machine Learning Engineer and more
+2025-12-06 01:31:57 [INFO] 2693 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6918 | Sr Machine Learning Engineer at PayPal and 10 more jobs in Bengaluru
+ for you. Apply Now.
+2025-12-06 01:31:57 [INFO] 2694 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5124 | 🚀 Top Headlines: India Cements jumps, Petronet inks ONGC deal, IndiGo hit by mass cancellations
+2025-12-06 01:31:58 [INFO] 2695 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7541 | Faster applications, better results
+2025-12-06 01:31:58 [INFO] 2696 | Glassdoor <info@glassdoor.com> | phishing | 0.5324 | Going somewhere? Take Glassdoor with you.
+2025-12-06 01:31:59 [INFO] 2697 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: SalesDuo, Inc. - Software Engineer and more
+2025-12-06 01:32:00 [INFO] 2698 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.753 | Update: Your CV needs to be updated to add this..
+2025-12-06 01:32:00 [INFO] 2699 | Roboflow Growth Team <growth@roboflow.com> | legitimate | 0.4127 | One day remaining on your Premium trial
+2025-12-06 01:32:01 [INFO] 2700 | Roboflow Team <hello@roboflow.com> | legitimate | 0.3084 | Use Gemini 3 Pro free on playground
+2025-12-06 01:32:01 [INFO] 2701 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:32:02 [INFO] 2702 | Google <no-reply@accounts.google.com> | phishing | 0.9089 | Critical security alert
+2025-12-06 01:32:03 [INFO] 2703 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.7657 | “engineer”: CodeRound AI - AI Engineer ($40K - $55K) and more
+2025-12-06 01:32:03 [INFO] 2704 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 01:32:04 [INFO] 2705 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 01:32:04 [INFO] 2706 | GitHub <noreply@github.com> | legitimate | 0.4664 | [GitHub] Sudo email verification code
+2025-12-06 01:32:05 [INFO] 2707 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8344 | “software engineer”: Microsoft - Software Engineer II and more
+2025-12-06 01:32:06 [INFO] 2708 | LinkedIn <jobs-noreply@linkedin.com> | phishing | 0.6837 | Your application was viewed by HEProAI
+2025-12-06 01:32:06 [INFO] 2709 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.6731 | Amar H M, New Job Opportunities for Intern
+2025-12-06 01:32:07 [INFO] 2710 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 01:32:07 [INFO] 2711 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Software Craftsperson Internship at Incubyte
+2025-12-06 01:32:08 [INFO] 2712 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.3544 | Welcome to Paperpal! Let's get you started
+2025-12-06 01:32:09 [INFO] 2713 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8497 | “engineer”: Intel Corporation - Product Development Engineer and more
+2025-12-06 01:32:10 [INFO] 2714 | Internshala <student@internshala.com> | phishing | 0.5316 | Top opportunities of the week matching your profile
+2025-12-06 01:32:11 [INFO] 2715 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SuperKalam (YC W23) - AI/ML research (Internship) and more
+2025-12-06 01:32:11 [INFO] 2716 | Shell GO+ <goplusindia@shell.com> | phishing | 0.5709 | Take full advantage of your rewards with Shell Asia app
+2025-12-06 01:32:12 [INFO] 2717 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7079 | Machine Learning Engineer at Yo quiero Yo puedo and 10 more jobs in
+ Bengaluru for you. Apply Now.
+2025-12-06 01:32:13 [INFO] 2718 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.2904 | 📉 RBI Cuts Rates, Renewables Rise, HUL & IndiGo Under Pressure
+2025-12-06 01:32:14 [INFO] 2719 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Track the Status of Every Job Application with Teal
+2025-12-06 01:32:14 [INFO] 2720 | Glassdoor <info@glassdoor.com> | legitimate | 0.2348 | Did you leave money on the table?
+2025-12-06 01:32:15 [INFO] 2721 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 01:32:15 [INFO] 2722 | LinkedIn via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3632 | The tools, trends, and stories shaping your next career move
+2025-12-06 01:32:16 [INFO] 2723 | Gemini via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3551 | Bank of America and Vanguard Warm to Crypto, Goldman Strikes Deal
+ for ETF Issuer, and Strategy Sets Up $1.4B Reserve
+2025-12-06 01:32:17 [INFO] 2724 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.394 | Bring out your best writing with Paperpal
+2025-12-06 01:32:18 [INFO] 2725 | "Coursera" <Coursera@m.learn.coursera.org> | phishing | 0.5344 | New for you: Practical Machine Learning: Foundations to Neural Networks
+2025-12-06 01:32:18 [INFO] 2726 | Google <no-reply@accounts.google.com> | phishing | 0.9264 | Security alert
+2025-12-06 01:32:19 [INFO] 2727 | Google <no-reply@accounts.google.com> | phishing | 0.9385 | Security alert
+2025-12-06 01:32:20 [INFO] 2728 | Microsoft account team
+	<account-security-noreply@accountprotection.microsoft.com> | phishing | 0.9023 | Personal Microsoft account password reset
+2025-12-06 01:32:21 [INFO] Completed IMAP fetch_and_predict run
+2025-12-06 01:35:57 [INFO] Starting IMAP fetch_and_predict run
+2025-12-06 01:36:01 [INFO] 2629 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: UM IT PRIVATE LIMITED - Cybersecurity Intern and more
+2025-12-06 01:36:02 [INFO] 2630 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.5001 | Why hirinng managerrs love this 6-lettr word
+2025-12-06 01:36:02 [INFO] 2631 | redBus <greetings@travel.e-redbus.in> | phishing | 0.6451 | Nethra, book your trip in 3, 2, 1… NOW!
+2025-12-06 01:36:03 [INFO] 2632 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5178 | 🚀 India’s GDP Rises; Tata Motors & Mahindra Shine, GST Collections Decline
+2025-12-06 01:36:03 [INFO] 2633 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7929 | Match Your Resume to Job Description in 4 Steps
+2025-12-06 01:36:04 [INFO] 2634 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.7699 | Amar, your order has been recieved
+2025-12-06 01:36:04 [INFO] 2635 | "Instagram" <security@mail.instagram.com> | phishing | 0.9445 | sanja.na31, we've made it easy to get back on Instagram
+2025-12-06 01:36:05 [INFO] 2636 | "McAfee" <info@protect.mcafee.com> | phishing | 0.9598 | Your online connection may be exposed!
+2025-12-06 01:36:06 [INFO] 2637 | Amay Vikram Singh <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 01:36:06 [INFO] 2638 | Naukri Campus <alertnc@naukri.com> | legitimate | 0.4647 | Feedback on your Naukri job applies done since last week
+2025-12-06 01:36:07 [INFO] 2639 | Apple <News@InsideApple.Apple.com> | phishing | 0.5795 | 🎁 Make their holiday one of a kind.
+2025-12-06 01:36:08 [INFO] 2640 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 01:36:09 [INFO] 2641 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 01:36:09 [INFO] 2642 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 01:36:10 [INFO] 2643 | Epic Games <help@acct.epicgames.com> | phishing | 0.6638 | Your two-factor sign in code 
+2025-12-06 01:36:11 [INFO] 2644 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “software engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 01:36:11 [INFO] 2645 | LinkedIn <notifications-noreply@linkedin.com> | legitimate | 0.4622 | Amar, your weekly recap: 36 impressions last week
+2025-12-06 01:36:12 [INFO] 2646 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “engineer”: Crossing Hurdles - Software Engineer | Remote | Mercor and more
+2025-12-06 01:36:13 [INFO] 2647 | LinkedIn <updates-noreply@linkedin.com> | legitimate | 0.2144 | AMAR KUMAR recently posted
+2025-12-06 01:36:13 [INFO] 2648 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.3375 | 💥 Airtel, HUL & Maruti in Focus; SPARC Jumps 20%, Bajaj Housing Tanks
+2025-12-06 01:36:14 [INFO] 2649 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.5061 | Resume AI
+2025-12-06 01:36:14 [INFO] 2650 | Social Media DSU <social-media@dsu.edu.in> | legitimate | 0.1494 | Share Your Achievements with the DSU Social Media Team
+2025-12-06 01:36:15 [INFO] 2651 | Naukri Campus <engagenc@naukri.com> | phishing | 0.5061 | Amar Your resume is ready to download!
+2025-12-06 01:36:15 [INFO] 2652 | OneDrive <no-reply@onedrive.com> | phishing | 0.5061 | Many files were recently deleted from your OneDrive
+2025-12-06 01:36:16 [INFO] 2653 | Bhagyalaxmi Sanikop via LinkedIn <invitations@linkedin.com> | legitimate | 0.3677 | Bhagyalaxmi accepted your invitation, explore their network
+2025-12-06 01:36:16 [INFO] 2654 | Google <no-reply@accounts.google.com> | phishing | 0.881 | Security alert
+2025-12-06 01:36:17 [INFO] 2655 | Naukri Alerts <eventnc@naukri.com> | phishing | 0.6731 | New Experts speak session is open for registration !!
+2025-12-06 01:36:17 [INFO] 2656 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 01:36:36 [INFO] 2657 | "Ms. Dharshini M" <dharshini@dsu.edu.in> | phishing | 0.7281 | Study in Austria – Your Pathway to a Global Career
+2025-12-06 01:36:37 [INFO] 2658 | Naukri Campus <eventnc@naukri.com> | phishing | 0.6731 | Amar, new contests for you to try
+2025-12-06 01:36:37 [INFO] 2659 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 01:36:38 [INFO] 2660 | Canva <marketing@engage.canva.com> | phishing | 0.6837 | Turn your designs into thoughtful holiday gifts 🎁
+2025-12-06 01:36:39 [INFO] 2661 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: Microsoft - Software Engineer and more
+2025-12-06 01:36:39 [INFO] 2662 | Angel One <campaign@angelbroking.in> | phishing | 0.5629 | 📈 Stay market-ready — here’s your update
+2025-12-06 01:36:40 [INFO] 2663 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.6764 | The ‘hidden’ language employers want you to speak
+2025-12-06 01:36:41 [INFO] 2664 | Glassdoor <noreply@glassdoor.com> | phishing | 0.9396 | Finish setting up your account
+2025-12-06 01:36:41 [INFO] 2665 | Perplexity <team@mail.perplexity.ai> | phishing | 0.7501 | See what Comet for Android can do
+2025-12-06 01:36:42 [INFO] 2666 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6611 | Senior Full Stack Engineer at Optum and 10 more jobs in Bengaluru for
+ you. Apply Now.
+2025-12-06 01:36:43 [INFO] 2667 | Cutshort Team <notify@cutshort.io> | phishing | 0.875 | Amar, here's your OTP to verify your email address on Cutshort
+2025-12-06 01:36:43 [INFO] 2668 | Andrew Rose <andrew+69302ee512e19e829806fe2c@reply.cutshort.io> | phishing | 0.5061 | RE: LLM Internship (Remote) at Springer Capital
+2025-12-06 01:36:44 [INFO] 2669 | Synorus Admin <synorus+6930300412e19e82980f4222@reply.cutshort.io> | phishing | 0.5061 | RE: AI Engineer Intern (Face-Swap / Deepfake Video Model) at Synorus
+2025-12-06 01:36:45 [INFO] 2670 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7917 | Sr Software Engineer (Cloud Security) at Invicta Learning and 11 more
+ jobs in Bengaluru for you. Apply Now.
+2025-12-06 01:36:45 [INFO] 2671 | Ahana Chatterjee <ahana+6930303412e19e82981150b1@reply.cutshort.io> | phishing | 0.5061 | RE: Developer Intern at Zenawn
+2025-12-06 01:36:46 [INFO] 2672 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Your resume, your way
+2025-12-06 01:36:46 [INFO] 2673 | Glassdoor <info@glassdoor.com> | legitimate | 0.2661 | Welcome! Want even more good stuff?
+2025-12-06 01:36:47 [INFO] 2674 | "Nikunj from Cutshort" <nikunj@cutshort.io> | phishing | 0.5627 | Welcome to Cutshort, Amar
+2025-12-06 01:36:48 [INFO] 2675 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.5061 | Amar H M, Top Openings for Intern
+2025-12-06 01:36:48 [INFO] 2676 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:36:49 [INFO] 2677 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:36:49 [INFO] 2678 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Engineer in Bengaluru, Karnataka, India
+ has been created
+2025-12-06 01:36:50 [INFO] 2679 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:36:51 [INFO] 2680 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Software Engineer in Bengaluru, Karnataka,
+ India has been created
+2025-12-06 01:36:52 [INFO] 2681 | Ananya Vishwanath <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 01:36:52 [INFO] 2682 | Bank Of India <promotions@communications.bankofindia.co.in> | phishing | 0.7481 | Cyber Security Awareness: Cyber Jagarookta Diwas December 2025
+2025-12-06 01:36:53 [INFO] 2683 | Sandli Srivastava <sandli+6930f9f3a816910dfff8ed29@reply.cutshort.io> | phishing | 0.5061 | Software Craftsperson Internship at Incubyte
+2025-12-06 01:36:54 [INFO] 2684 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8308 | “engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 01:36:55 [INFO] 2685 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineering and more
+2025-12-06 01:36:55 [INFO] 2686 | Andrew Rose <andrew+6931345c197646469b79223a@reply.cutshort.io> | phishing | 0.5061 | Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 01:36:57 [INFO] 2687 | Khushi Kesharwani <invitations@linkedin.com> | legitimate | 0.4835 | You have an invitation
+2025-12-06 01:36:58 [INFO] 2688 | Sarah from pdfFiller <sarah@pdffiller.com> | phishing | 0.6587 | Collaborative PDF editing—Simplified ✅
+2025-12-06 01:37:00 [INFO] 2689 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: Wake Up Whistle - Data Analyst Associate – Data Cleaning • Visualization Design • Trend Forecasting and more
+2025-12-06 01:37:00 [INFO] 2690 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.8435 | Why 88% of resumes never get read
+2025-12-06 01:37:01 [INFO] 2691 | Internshala <student@internshala.com> | phishing | 0.6649 | Your profile is a perfect match for these 'Web Development' opportunities
+2025-12-06 01:37:02 [INFO] 2692 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: SAP - Machine Learning Engineer and more
+2025-12-06 01:37:03 [INFO] 2693 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6918 | Sr Machine Learning Engineer at PayPal and 10 more jobs in Bengaluru
+ for you. Apply Now.
+2025-12-06 01:37:03 [INFO] 2694 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5124 | 🚀 Top Headlines: India Cements jumps, Petronet inks ONGC deal, IndiGo hit by mass cancellations
+2025-12-06 01:37:04 [INFO] 2695 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7541 | Faster applications, better results
+2025-12-06 01:37:04 [INFO] 2696 | Glassdoor <info@glassdoor.com> | phishing | 0.5324 | Going somewhere? Take Glassdoor with you.
+2025-12-06 01:37:05 [INFO] 2697 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: SalesDuo, Inc. - Software Engineer and more
+2025-12-06 01:37:05 [INFO] 2698 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.753 | Update: Your CV needs to be updated to add this..
+2025-12-06 01:37:06 [INFO] 2699 | Roboflow Growth Team <growth@roboflow.com> | legitimate | 0.4127 | One day remaining on your Premium trial
+2025-12-06 01:37:07 [INFO] 2700 | Roboflow Team <hello@roboflow.com> | legitimate | 0.3084 | Use Gemini 3 Pro free on playground
+2025-12-06 01:37:07 [INFO] 2701 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:37:07 [INFO] 2702 | Google <no-reply@accounts.google.com> | phishing | 0.9089 | Critical security alert
+2025-12-06 01:37:08 [INFO] 2703 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.7657 | “engineer”: CodeRound AI - AI Engineer ($40K - $55K) and more
+2025-12-06 01:37:09 [INFO] 2704 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 01:37:09 [INFO] 2705 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 01:37:10 [INFO] 2706 | GitHub <noreply@github.com> | legitimate | 0.4664 | [GitHub] Sudo email verification code
+2025-12-06 01:37:10 [INFO] 2707 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8344 | “software engineer”: Microsoft - Software Engineer II and more
+2025-12-06 01:37:11 [INFO] 2708 | LinkedIn <jobs-noreply@linkedin.com> | phishing | 0.6837 | Your application was viewed by HEProAI
+2025-12-06 01:37:12 [INFO] 2709 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.6731 | Amar H M, New Job Opportunities for Intern
+2025-12-06 01:37:12 [INFO] 2710 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 01:37:13 [INFO] 2711 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Software Craftsperson Internship at Incubyte
+2025-12-06 01:37:13 [INFO] 2712 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.3544 | Welcome to Paperpal! Let's get you started
+2025-12-06 01:37:14 [INFO] 2713 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8497 | “engineer”: Intel Corporation - Product Development Engineer and more
+2025-12-06 01:37:15 [INFO] 2714 | Internshala <student@internshala.com> | phishing | 0.5316 | Top opportunities of the week matching your profile
+2025-12-06 01:37:15 [INFO] 2715 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SuperKalam (YC W23) - AI/ML research (Internship) and more
+2025-12-06 01:37:16 [INFO] 2716 | Shell GO+ <goplusindia@shell.com> | phishing | 0.5709 | Take full advantage of your rewards with Shell Asia app
+2025-12-06 01:37:17 [INFO] 2717 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7079 | Machine Learning Engineer at Yo quiero Yo puedo and 10 more jobs in
+ Bengaluru for you. Apply Now.
+2025-12-06 01:37:17 [INFO] 2718 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.2904 | 📉 RBI Cuts Rates, Renewables Rise, HUL & IndiGo Under Pressure
+2025-12-06 01:37:18 [INFO] 2719 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Track the Status of Every Job Application with Teal
+2025-12-06 01:37:18 [INFO] 2720 | Glassdoor <info@glassdoor.com> | legitimate | 0.2348 | Did you leave money on the table?
+2025-12-06 01:37:19 [INFO] 2721 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 01:37:19 [INFO] 2722 | LinkedIn via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3632 | The tools, trends, and stories shaping your next career move
+2025-12-06 01:37:20 [INFO] 2723 | Gemini via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3551 | Bank of America and Vanguard Warm to Crypto, Goldman Strikes Deal
+ for ETF Issuer, and Strategy Sets Up $1.4B Reserve
+2025-12-06 01:37:21 [INFO] 2724 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.394 | Bring out your best writing with Paperpal
+2025-12-06 01:37:22 [INFO] 2725 | "Coursera" <Coursera@m.learn.coursera.org> | phishing | 0.5344 | New for you: Practical Machine Learning: Foundations to Neural Networks
+2025-12-06 01:37:22 [INFO] 2726 | Google <no-reply@accounts.google.com> | phishing | 0.9264 | Security alert
+2025-12-06 01:37:23 [INFO] 2727 | Google <no-reply@accounts.google.com> | phishing | 0.9385 | Security alert
+2025-12-06 01:37:23 [INFO] 2728 | Microsoft account team
+	<account-security-noreply@accountprotection.microsoft.com> | phishing | 0.9023 | Personal Microsoft account password reset
+2025-12-06 01:37:24 [INFO] Completed IMAP fetch_and_predict run
+2025-12-06 01:38:02 [INFO] Starting IMAP fetch_and_predict run
+2025-12-06 01:38:06 [INFO] 2629 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: UM IT PRIVATE LIMITED - Cybersecurity Intern and more
+2025-12-06 01:38:06 [INFO] 2630 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.5001 | Why hirinng managerrs love this 6-lettr word
+2025-12-06 01:38:07 [INFO] 2631 | redBus <greetings@travel.e-redbus.in> | phishing | 0.6451 | Nethra, book your trip in 3, 2, 1… NOW!
+2025-12-06 01:38:07 [INFO] 2632 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5178 | 🚀 India’s GDP Rises; Tata Motors & Mahindra Shine, GST Collections Decline
+2025-12-06 01:38:08 [INFO] 2633 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7929 | Match Your Resume to Job Description in 4 Steps
+2025-12-06 01:38:08 [INFO] 2634 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.7699 | Amar, your order has been recieved
+2025-12-06 01:38:09 [INFO] 2635 | "Instagram" <security@mail.instagram.com> | phishing | 0.9445 | sanja.na31, we've made it easy to get back on Instagram
+2025-12-06 01:38:09 [INFO] 2636 | "McAfee" <info@protect.mcafee.com> | phishing | 0.9598 | Your online connection may be exposed!
+2025-12-06 01:38:10 [INFO] 2637 | Amay Vikram Singh <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 01:38:11 [INFO] 2638 | Naukri Campus <alertnc@naukri.com> | legitimate | 0.4647 | Feedback on your Naukri job applies done since last week
+2025-12-06 01:38:12 [INFO] 2639 | Apple <News@InsideApple.Apple.com> | phishing | 0.5795 | 🎁 Make their holiday one of a kind.
+2025-12-06 01:38:13 [INFO] 2640 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 01:38:14 [INFO] 2641 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 01:38:14 [INFO] 2642 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 01:38:15 [INFO] 2643 | Epic Games <help@acct.epicgames.com> | phishing | 0.6638 | Your two-factor sign in code 
+2025-12-06 01:38:15 [INFO] 2644 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “software engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 01:38:16 [INFO] 2645 | LinkedIn <notifications-noreply@linkedin.com> | legitimate | 0.4622 | Amar, your weekly recap: 36 impressions last week
+2025-12-06 01:38:17 [INFO] 2646 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “engineer”: Crossing Hurdles - Software Engineer | Remote | Mercor and more
+2025-12-06 01:38:17 [INFO] 2647 | LinkedIn <updates-noreply@linkedin.com> | legitimate | 0.2144 | AMAR KUMAR recently posted
+2025-12-06 01:38:18 [INFO] 2648 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.3375 | 💥 Airtel, HUL & Maruti in Focus; SPARC Jumps 20%, Bajaj Housing Tanks
+2025-12-06 01:38:18 [INFO] 2649 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.5061 | Resume AI
+2025-12-06 01:38:19 [INFO] 2650 | Social Media DSU <social-media@dsu.edu.in> | legitimate | 0.1494 | Share Your Achievements with the DSU Social Media Team
+2025-12-06 01:38:19 [INFO] 2651 | Naukri Campus <engagenc@naukri.com> | phishing | 0.5061 | Amar Your resume is ready to download!
+2025-12-06 01:38:20 [INFO] 2652 | OneDrive <no-reply@onedrive.com> | phishing | 0.5061 | Many files were recently deleted from your OneDrive
+2025-12-06 01:38:21 [INFO] 2653 | Bhagyalaxmi Sanikop via LinkedIn <invitations@linkedin.com> | legitimate | 0.3677 | Bhagyalaxmi accepted your invitation, explore their network
+2025-12-06 01:38:22 [INFO] 2654 | Google <no-reply@accounts.google.com> | phishing | 0.881 | Security alert
+2025-12-06 01:38:22 [INFO] 2655 | Naukri Alerts <eventnc@naukri.com> | phishing | 0.6731 | New Experts speak session is open for registration !!
+2025-12-06 01:38:23 [INFO] 2656 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 01:38:39 [INFO] 2657 | "Ms. Dharshini M" <dharshini@dsu.edu.in> | phishing | 0.7281 | Study in Austria – Your Pathway to a Global Career
+2025-12-06 01:38:40 [INFO] 2658 | Naukri Campus <eventnc@naukri.com> | phishing | 0.6731 | Amar, new contests for you to try
+2025-12-06 01:38:41 [INFO] 2659 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 01:38:41 [INFO] 2660 | Canva <marketing@engage.canva.com> | phishing | 0.6837 | Turn your designs into thoughtful holiday gifts 🎁
+2025-12-06 01:38:42 [INFO] 2661 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: Microsoft - Software Engineer and more
+2025-12-06 01:38:43 [INFO] 2662 | Angel One <campaign@angelbroking.in> | phishing | 0.5629 | 📈 Stay market-ready — here’s your update
+2025-12-06 01:38:43 [INFO] 2663 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.6764 | The ‘hidden’ language employers want you to speak
+2025-12-06 01:38:43 [INFO] 2664 | Glassdoor <noreply@glassdoor.com> | phishing | 0.9396 | Finish setting up your account
+2025-12-06 01:38:44 [INFO] 2665 | Perplexity <team@mail.perplexity.ai> | phishing | 0.7501 | See what Comet for Android can do
+2025-12-06 01:38:45 [INFO] 2666 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6611 | Senior Full Stack Engineer at Optum and 10 more jobs in Bengaluru for
+ you. Apply Now.
+2025-12-06 01:38:45 [INFO] 2667 | Cutshort Team <notify@cutshort.io> | phishing | 0.875 | Amar, here's your OTP to verify your email address on Cutshort
+2025-12-06 01:38:46 [INFO] 2668 | Andrew Rose <andrew+69302ee512e19e829806fe2c@reply.cutshort.io> | phishing | 0.5061 | RE: LLM Internship (Remote) at Springer Capital
+2025-12-06 01:38:46 [INFO] 2669 | Synorus Admin <synorus+6930300412e19e82980f4222@reply.cutshort.io> | phishing | 0.5061 | RE: AI Engineer Intern (Face-Swap / Deepfake Video Model) at Synorus
+2025-12-06 01:38:48 [INFO] 2670 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7917 | Sr Software Engineer (Cloud Security) at Invicta Learning and 11 more
+ jobs in Bengaluru for you. Apply Now.
+2025-12-06 01:38:48 [INFO] 2671 | Ahana Chatterjee <ahana+6930303412e19e82981150b1@reply.cutshort.io> | phishing | 0.5061 | RE: Developer Intern at Zenawn
+2025-12-06 01:38:49 [INFO] 2672 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Your resume, your way
+2025-12-06 01:38:49 [INFO] 2673 | Glassdoor <info@glassdoor.com> | legitimate | 0.2661 | Welcome! Want even more good stuff?
+2025-12-06 01:38:50 [INFO] 2674 | "Nikunj from Cutshort" <nikunj@cutshort.io> | phishing | 0.5627 | Welcome to Cutshort, Amar
+2025-12-06 01:38:50 [INFO] 2675 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.5061 | Amar H M, Top Openings for Intern
+2025-12-06 01:38:50 [INFO] 2676 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:38:51 [INFO] 2677 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:38:52 [INFO] 2678 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Engineer in Bengaluru, Karnataka, India
+ has been created
+2025-12-06 01:38:52 [INFO] 2679 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:38:53 [INFO] 2680 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Software Engineer in Bengaluru, Karnataka,
+ India has been created
+2025-12-06 01:38:53 [INFO] 2681 | Ananya Vishwanath <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 01:38:54 [INFO] 2682 | Bank Of India <promotions@communications.bankofindia.co.in> | phishing | 0.7481 | Cyber Security Awareness: Cyber Jagarookta Diwas December 2025
+2025-12-06 01:38:54 [INFO] 2683 | Sandli Srivastava <sandli+6930f9f3a816910dfff8ed29@reply.cutshort.io> | phishing | 0.5061 | Software Craftsperson Internship at Incubyte
+2025-12-06 01:38:55 [INFO] 2684 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8308 | “engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 01:38:55 [INFO] 2685 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineering and more
+2025-12-06 01:38:56 [INFO] 2686 | Andrew Rose <andrew+6931345c197646469b79223a@reply.cutshort.io> | phishing | 0.5061 | Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 01:38:57 [INFO] 2687 | Khushi Kesharwani <invitations@linkedin.com> | legitimate | 0.4835 | You have an invitation
+2025-12-06 01:38:58 [INFO] 2688 | Sarah from pdfFiller <sarah@pdffiller.com> | phishing | 0.6587 | Collaborative PDF editing—Simplified ✅
+2025-12-06 01:38:58 [INFO] 2689 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: Wake Up Whistle - Data Analyst Associate – Data Cleaning • Visualization Design • Trend Forecasting and more
+2025-12-06 01:38:59 [INFO] 2690 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.8435 | Why 88% of resumes never get read
+2025-12-06 01:39:00 [INFO] 2691 | Internshala <student@internshala.com> | phishing | 0.6649 | Your profile is a perfect match for these 'Web Development' opportunities
+2025-12-06 01:39:00 [INFO] 2692 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: SAP - Machine Learning Engineer and more
+2025-12-06 01:39:01 [INFO] 2693 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6918 | Sr Machine Learning Engineer at PayPal and 10 more jobs in Bengaluru
+ for you. Apply Now.
+2025-12-06 01:39:02 [INFO] 2694 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5124 | 🚀 Top Headlines: India Cements jumps, Petronet inks ONGC deal, IndiGo hit by mass cancellations
+2025-12-06 01:39:02 [INFO] 2695 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7541 | Faster applications, better results
+2025-12-06 01:39:03 [INFO] 2696 | Glassdoor <info@glassdoor.com> | phishing | 0.5324 | Going somewhere? Take Glassdoor with you.
+2025-12-06 01:39:04 [INFO] 2697 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: SalesDuo, Inc. - Software Engineer and more
+2025-12-06 01:39:04 [INFO] 2698 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.753 | Update: Your CV needs to be updated to add this..
+2025-12-06 01:39:05 [INFO] 2699 | Roboflow Growth Team <growth@roboflow.com> | legitimate | 0.4127 | One day remaining on your Premium trial
+2025-12-06 01:39:05 [INFO] 2700 | Roboflow Team <hello@roboflow.com> | legitimate | 0.3084 | Use Gemini 3 Pro free on playground
+2025-12-06 01:39:06 [INFO] 2701 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:39:06 [INFO] 2702 | Google <no-reply@accounts.google.com> | phishing | 0.9089 | Critical security alert
+2025-12-06 01:39:07 [INFO] 2703 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.7657 | “engineer”: CodeRound AI - AI Engineer ($40K - $55K) and more
+2025-12-06 01:39:07 [INFO] 2704 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 01:39:08 [INFO] 2705 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 01:39:08 [INFO] 2706 | GitHub <noreply@github.com> | legitimate | 0.4664 | [GitHub] Sudo email verification code
+2025-12-06 01:39:09 [INFO] 2707 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8344 | “software engineer”: Microsoft - Software Engineer II and more
+2025-12-06 01:39:10 [INFO] 2708 | LinkedIn <jobs-noreply@linkedin.com> | phishing | 0.6837 | Your application was viewed by HEProAI
+2025-12-06 01:39:10 [INFO] 2709 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.6731 | Amar H M, New Job Opportunities for Intern
+2025-12-06 01:39:11 [INFO] 2710 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 01:39:12 [INFO] 2711 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Software Craftsperson Internship at Incubyte
+2025-12-06 01:39:12 [INFO] 2712 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.3544 | Welcome to Paperpal! Let's get you started
+2025-12-06 01:39:13 [INFO] 2713 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8497 | “engineer”: Intel Corporation - Product Development Engineer and more
+2025-12-06 01:39:14 [INFO] 2714 | Internshala <student@internshala.com> | phishing | 0.5316 | Top opportunities of the week matching your profile
+2025-12-06 01:39:15 [INFO] 2715 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SuperKalam (YC W23) - AI/ML research (Internship) and more
+2025-12-06 01:39:15 [INFO] 2716 | Shell GO+ <goplusindia@shell.com> | phishing | 0.5709 | Take full advantage of your rewards with Shell Asia app
+2025-12-06 01:39:16 [INFO] 2717 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7079 | Machine Learning Engineer at Yo quiero Yo puedo and 10 more jobs in
+ Bengaluru for you. Apply Now.
+2025-12-06 01:39:17 [INFO] 2718 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.2904 | 📉 RBI Cuts Rates, Renewables Rise, HUL & IndiGo Under Pressure
+2025-12-06 01:39:17 [INFO] 2719 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Track the Status of Every Job Application with Teal
+2025-12-06 01:39:18 [INFO] 2720 | Glassdoor <info@glassdoor.com> | legitimate | 0.2348 | Did you leave money on the table?
+2025-12-06 01:39:18 [INFO] 2721 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 01:39:19 [INFO] 2722 | LinkedIn via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3632 | The tools, trends, and stories shaping your next career move
+2025-12-06 01:39:19 [INFO] 2723 | Gemini via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3551 | Bank of America and Vanguard Warm to Crypto, Goldman Strikes Deal
+ for ETF Issuer, and Strategy Sets Up $1.4B Reserve
+2025-12-06 01:39:20 [INFO] 2724 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.394 | Bring out your best writing with Paperpal
+2025-12-06 01:39:21 [INFO] 2725 | "Coursera" <Coursera@m.learn.coursera.org> | phishing | 0.5344 | New for you: Practical Machine Learning: Foundations to Neural Networks
+2025-12-06 01:39:22 [INFO] 2726 | Google <no-reply@accounts.google.com> | phishing | 0.9264 | Security alert
+2025-12-06 01:39:22 [INFO] 2727 | Google <no-reply@accounts.google.com> | phishing | 0.9385 | Security alert
+2025-12-06 01:39:23 [INFO] 2728 | Microsoft account team
+	<account-security-noreply@accountprotection.microsoft.com> | phishing | 0.9023 | Personal Microsoft account password reset
+2025-12-06 01:39:24 [INFO] Completed IMAP fetch_and_predict run
+2025-12-06 01:44:54 [INFO] Starting IMAP fetch_and_predict run
+2025-12-06 01:44:59 [INFO] 2629 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: UM IT PRIVATE LIMITED - Cybersecurity Intern and more
+2025-12-06 01:44:59 [INFO] 2630 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.5001 | Why hirinng managerrs love this 6-lettr word
+2025-12-06 01:45:00 [INFO] 2631 | redBus <greetings@travel.e-redbus.in> | phishing | 0.6451 | Nethra, book your trip in 3, 2, 1… NOW!
+2025-12-06 01:45:00 [INFO] 2632 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5178 | 🚀 India’s GDP Rises; Tata Motors & Mahindra Shine, GST Collections Decline
+2025-12-06 01:45:01 [INFO] 2633 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7929 | Match Your Resume to Job Description in 4 Steps
+2025-12-06 01:45:01 [INFO] 2634 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.7699 | Amar, your order has been recieved
+2025-12-06 01:45:02 [INFO] 2635 | "Instagram" <security@mail.instagram.com> | phishing | 0.9445 | sanja.na31, we've made it easy to get back on Instagram
+2025-12-06 01:45:03 [INFO] 2636 | "McAfee" <info@protect.mcafee.com> | phishing | 0.9598 | Your online connection may be exposed!
+2025-12-06 01:45:03 [INFO] 2637 | Amay Vikram Singh <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 01:45:04 [INFO] 2638 | Naukri Campus <alertnc@naukri.com> | legitimate | 0.4647 | Feedback on your Naukri job applies done since last week
+2025-12-06 01:45:04 [INFO] 2639 | Apple <News@InsideApple.Apple.com> | phishing | 0.5795 | 🎁 Make their holiday one of a kind.
+2025-12-06 01:45:05 [INFO] 2640 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 01:45:06 [INFO] 2641 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 01:45:06 [INFO] 2642 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 01:45:07 [INFO] 2643 | Epic Games <help@acct.epicgames.com> | phishing | 0.6638 | Your two-factor sign in code 
+2025-12-06 01:45:08 [INFO] 2644 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “software engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 01:45:08 [INFO] 2645 | LinkedIn <notifications-noreply@linkedin.com> | legitimate | 0.4622 | Amar, your weekly recap: 36 impressions last week
+2025-12-06 01:45:09 [INFO] 2646 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “engineer”: Crossing Hurdles - Software Engineer | Remote | Mercor and more
+2025-12-06 01:45:10 [INFO] 2647 | LinkedIn <updates-noreply@linkedin.com> | legitimate | 0.2144 | AMAR KUMAR recently posted
+2025-12-06 01:45:10 [INFO] 2648 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.3375 | 💥 Airtel, HUL & Maruti in Focus; SPARC Jumps 20%, Bajaj Housing Tanks
+2025-12-06 01:45:11 [INFO] 2649 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.5061 | Resume AI
+2025-12-06 01:45:11 [INFO] 2650 | Social Media DSU <social-media@dsu.edu.in> | legitimate | 0.1494 | Share Your Achievements with the DSU Social Media Team
+2025-12-06 01:45:12 [INFO] 2651 | Naukri Campus <engagenc@naukri.com> | phishing | 0.5061 | Amar Your resume is ready to download!
+2025-12-06 01:45:12 [INFO] 2652 | OneDrive <no-reply@onedrive.com> | phishing | 0.5061 | Many files were recently deleted from your OneDrive
+2025-12-06 01:45:13 [INFO] 2653 | Bhagyalaxmi Sanikop via LinkedIn <invitations@linkedin.com> | legitimate | 0.3677 | Bhagyalaxmi accepted your invitation, explore their network
+2025-12-06 01:45:13 [INFO] 2654 | Google <no-reply@accounts.google.com> | phishing | 0.881 | Security alert
+2025-12-06 01:45:14 [INFO] 2655 | Naukri Alerts <eventnc@naukri.com> | phishing | 0.6731 | New Experts speak session is open for registration !!
+2025-12-06 01:45:15 [INFO] 2656 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 01:48:10 [INFO] Starting IMAP fetch_and_predict run
+2025-12-06 01:48:13 [INFO] 2629 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: UM IT PRIVATE LIMITED - Cybersecurity Intern and more
+2025-12-06 01:48:14 [INFO] 2630 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.5001 | Why hirinng managerrs love this 6-lettr word
+2025-12-06 01:48:14 [INFO] 2631 | redBus <greetings@travel.e-redbus.in> | phishing | 0.6451 | Nethra, book your trip in 3, 2, 1… NOW!
+2025-12-06 01:48:15 [INFO] 2632 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5178 | 🚀 India’s GDP Rises; Tata Motors & Mahindra Shine, GST Collections Decline
+2025-12-06 01:48:15 [INFO] 2633 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7929 | Match Your Resume to Job Description in 4 Steps
+2025-12-06 01:48:16 [INFO] 2634 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.7699 | Amar, your order has been recieved
+2025-12-06 01:48:16 [INFO] 2635 | "Instagram" <security@mail.instagram.com> | phishing | 0.9445 | sanja.na31, we've made it easy to get back on Instagram
+2025-12-06 01:48:17 [INFO] 2636 | "McAfee" <info@protect.mcafee.com> | phishing | 0.9598 | Your online connection may be exposed!
+2025-12-06 01:48:18 [INFO] 2637 | Amay Vikram Singh <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 01:48:19 [INFO] 2638 | Naukri Campus <alertnc@naukri.com> | legitimate | 0.4647 | Feedback on your Naukri job applies done since last week
+2025-12-06 01:48:20 [INFO] 2639 | Apple <News@InsideApple.Apple.com> | phishing | 0.5795 | 🎁 Make their holiday one of a kind.
+2025-12-06 01:48:21 [INFO] 2640 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 01:48:21 [INFO] 2641 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 01:48:22 [INFO] 2642 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 01:48:22 [INFO] 2643 | Epic Games <help@acct.epicgames.com> | phishing | 0.6638 | Your two-factor sign in code 
+2025-12-06 01:48:23 [INFO] 2644 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “software engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 01:48:23 [INFO] 2645 | LinkedIn <notifications-noreply@linkedin.com> | legitimate | 0.4622 | Amar, your weekly recap: 36 impressions last week
+2025-12-06 01:48:24 [INFO] 2646 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “engineer”: Crossing Hurdles - Software Engineer | Remote | Mercor and more
+2025-12-06 01:48:25 [INFO] 2647 | LinkedIn <updates-noreply@linkedin.com> | legitimate | 0.2144 | AMAR KUMAR recently posted
+2025-12-06 01:48:26 [INFO] 2648 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.3375 | 💥 Airtel, HUL & Maruti in Focus; SPARC Jumps 20%, Bajaj Housing Tanks
+2025-12-06 01:48:26 [INFO] 2649 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.5061 | Resume AI
+2025-12-06 01:48:27 [INFO] 2650 | Social Media DSU <social-media@dsu.edu.in> | legitimate | 0.1494 | Share Your Achievements with the DSU Social Media Team
+2025-12-06 01:48:27 [INFO] 2651 | Naukri Campus <engagenc@naukri.com> | phishing | 0.5061 | Amar Your resume is ready to download!
+2025-12-06 01:48:28 [INFO] 2652 | OneDrive <no-reply@onedrive.com> | phishing | 0.5061 | Many files were recently deleted from your OneDrive
+2025-12-06 01:48:28 [INFO] 2653 | Bhagyalaxmi Sanikop via LinkedIn <invitations@linkedin.com> | legitimate | 0.3677 | Bhagyalaxmi accepted your invitation, explore their network
+2025-12-06 01:48:29 [INFO] 2654 | Google <no-reply@accounts.google.com> | phishing | 0.881 | Security alert
+2025-12-06 01:48:29 [INFO] 2655 | Naukri Alerts <eventnc@naukri.com> | phishing | 0.6731 | New Experts speak session is open for registration !!
+2025-12-06 01:48:30 [INFO] 2656 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 01:48:48 [INFO] 2657 | "Ms. Dharshini M" <dharshini@dsu.edu.in> | phishing | 0.7281 | Study in Austria – Your Pathway to a Global Career
+2025-12-06 01:48:49 [INFO] 2658 | Naukri Campus <eventnc@naukri.com> | phishing | 0.6731 | Amar, new contests for you to try
+2025-12-06 01:48:50 [INFO] 2659 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 01:48:51 [INFO] 2660 | Canva <marketing@engage.canva.com> | phishing | 0.6837 | Turn your designs into thoughtful holiday gifts 🎁
+2025-12-06 01:48:51 [INFO] 2661 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: Microsoft - Software Engineer and more
+2025-12-06 01:48:52 [INFO] 2662 | Angel One <campaign@angelbroking.in> | phishing | 0.5629 | 📈 Stay market-ready — here’s your update
+2025-12-06 01:48:52 [INFO] 2663 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.6764 | The ‘hidden’ language employers want you to speak
+2025-12-06 01:48:53 [INFO] 2664 | Glassdoor <noreply@glassdoor.com> | phishing | 0.9396 | Finish setting up your account
+2025-12-06 01:48:54 [INFO] 2665 | Perplexity <team@mail.perplexity.ai> | phishing | 0.7501 | See what Comet for Android can do
+2025-12-06 01:48:55 [INFO] 2666 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6611 | Senior Full Stack Engineer at Optum and 10 more jobs in Bengaluru for
+ you. Apply Now.
+2025-12-06 01:48:55 [INFO] 2667 | Cutshort Team <notify@cutshort.io> | phishing | 0.875 | Amar, here's your OTP to verify your email address on Cutshort
+2025-12-06 01:48:56 [INFO] 2668 | Andrew Rose <andrew+69302ee512e19e829806fe2c@reply.cutshort.io> | phishing | 0.5061 | RE: LLM Internship (Remote) at Springer Capital
+2025-12-06 01:48:56 [INFO] 2669 | Synorus Admin <synorus+6930300412e19e82980f4222@reply.cutshort.io> | phishing | 0.5061 | RE: AI Engineer Intern (Face-Swap / Deepfake Video Model) at Synorus
+2025-12-06 01:48:57 [INFO] 2670 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7917 | Sr Software Engineer (Cloud Security) at Invicta Learning and 11 more
+ jobs in Bengaluru for you. Apply Now.
+2025-12-06 01:48:57 [INFO] 2671 | Ahana Chatterjee <ahana+6930303412e19e82981150b1@reply.cutshort.io> | phishing | 0.5061 | RE: Developer Intern at Zenawn
+2025-12-06 01:48:58 [INFO] 2672 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Your resume, your way
+2025-12-06 01:48:58 [INFO] 2673 | Glassdoor <info@glassdoor.com> | legitimate | 0.2661 | Welcome! Want even more good stuff?
+2025-12-06 01:48:59 [INFO] 2674 | "Nikunj from Cutshort" <nikunj@cutshort.io> | phishing | 0.5627 | Welcome to Cutshort, Amar
+2025-12-06 01:48:59 [INFO] 2675 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.5061 | Amar H M, Top Openings for Intern
+2025-12-06 01:49:00 [INFO] 2676 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:49:00 [INFO] 2677 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:49:01 [INFO] 2678 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Engineer in Bengaluru, Karnataka, India
+ has been created
+2025-12-06 01:49:01 [INFO] 2679 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:49:02 [INFO] 2680 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Software Engineer in Bengaluru, Karnataka,
+ India has been created
+2025-12-06 01:49:03 [INFO] 2681 | Ananya Vishwanath <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 01:49:03 [INFO] 2682 | Bank Of India <promotions@communications.bankofindia.co.in> | phishing | 0.7481 | Cyber Security Awareness: Cyber Jagarookta Diwas December 2025
+2025-12-06 01:49:04 [INFO] 2683 | Sandli Srivastava <sandli+6930f9f3a816910dfff8ed29@reply.cutshort.io> | phishing | 0.5061 | Software Craftsperson Internship at Incubyte
+2025-12-06 01:49:05 [INFO] 2684 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8308 | “engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 01:49:06 [INFO] 2685 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineering and more
+2025-12-06 01:49:07 [INFO] 2686 | Andrew Rose <andrew+6931345c197646469b79223a@reply.cutshort.io> | phishing | 0.5061 | Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 01:49:08 [INFO] 2687 | Khushi Kesharwani <invitations@linkedin.com> | legitimate | 0.4835 | You have an invitation
+2025-12-06 01:49:09 [INFO] 2688 | Sarah from pdfFiller <sarah@pdffiller.com> | phishing | 0.6587 | Collaborative PDF editing—Simplified ✅
+2025-12-06 01:49:09 [INFO] 2689 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: Wake Up Whistle - Data Analyst Associate – Data Cleaning • Visualization Design • Trend Forecasting and more
+2025-12-06 01:49:10 [INFO] 2690 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.8435 | Why 88% of resumes never get read
+2025-12-06 01:49:10 [INFO] 2691 | Internshala <student@internshala.com> | phishing | 0.6649 | Your profile is a perfect match for these 'Web Development' opportunities
+2025-12-06 01:49:12 [INFO] 2692 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: SAP - Machine Learning Engineer and more
+2025-12-06 01:49:13 [INFO] 2693 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6918 | Sr Machine Learning Engineer at PayPal and 10 more jobs in Bengaluru
+ for you. Apply Now.
+2025-12-06 01:49:14 [INFO] 2694 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5124 | 🚀 Top Headlines: India Cements jumps, Petronet inks ONGC deal, IndiGo hit by mass cancellations
+2025-12-06 01:49:14 [INFO] 2695 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7541 | Faster applications, better results
+2025-12-06 01:49:15 [INFO] 2696 | Glassdoor <info@glassdoor.com> | phishing | 0.5324 | Going somewhere? Take Glassdoor with you.
+2025-12-06 01:49:15 [INFO] 2697 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: SalesDuo, Inc. - Software Engineer and more
+2025-12-06 01:49:16 [INFO] 2698 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.753 | Update: Your CV needs to be updated to add this..
+2025-12-06 01:49:16 [INFO] 2699 | Roboflow Growth Team <growth@roboflow.com> | legitimate | 0.4127 | One day remaining on your Premium trial
+2025-12-06 01:49:17 [INFO] 2700 | Roboflow Team <hello@roboflow.com> | legitimate | 0.3084 | Use Gemini 3 Pro free on playground
+2025-12-06 01:49:17 [INFO] 2701 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 01:49:18 [INFO] 2702 | Google <no-reply@accounts.google.com> | phishing | 0.9089 | Critical security alert
+2025-12-06 01:49:19 [INFO] 2703 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.7657 | “engineer”: CodeRound AI - AI Engineer ($40K - $55K) and more
+2025-12-06 01:49:19 [INFO] 2704 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 01:49:20 [INFO] 2705 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 01:49:20 [INFO] 2706 | GitHub <noreply@github.com> | legitimate | 0.4664 | [GitHub] Sudo email verification code
+2025-12-06 01:49:21 [INFO] 2707 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8344 | “software engineer”: Microsoft - Software Engineer II and more
+2025-12-06 01:49:22 [INFO] 2708 | LinkedIn <jobs-noreply@linkedin.com> | phishing | 0.6837 | Your application was viewed by HEProAI
+2025-12-06 01:49:22 [INFO] 2709 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.6731 | Amar H M, New Job Opportunities for Intern
+2025-12-06 01:49:23 [INFO] 2710 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 01:49:23 [INFO] 2711 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Software Craftsperson Internship at Incubyte
+2025-12-06 01:49:24 [INFO] 2712 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.3544 | Welcome to Paperpal! Let's get you started
+2025-12-06 01:49:25 [INFO] 2713 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8497 | “engineer”: Intel Corporation - Product Development Engineer and more
+2025-12-06 01:49:25 [INFO] 2714 | Internshala <student@internshala.com> | phishing | 0.5316 | Top opportunities of the week matching your profile
+2025-12-06 01:49:26 [INFO] 2715 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SuperKalam (YC W23) - AI/ML research (Internship) and more
+2025-12-06 01:49:27 [INFO] 2716 | Shell GO+ <goplusindia@shell.com> | phishing | 0.5709 | Take full advantage of your rewards with Shell Asia app
+2025-12-06 01:49:28 [INFO] 2717 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7079 | Machine Learning Engineer at Yo quiero Yo puedo and 10 more jobs in
+ Bengaluru for you. Apply Now.
+2025-12-06 01:49:28 [INFO] 2718 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.2904 | 📉 RBI Cuts Rates, Renewables Rise, HUL & IndiGo Under Pressure
+2025-12-06 01:49:29 [INFO] 2719 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Track the Status of Every Job Application with Teal
+2025-12-06 01:49:29 [INFO] 2720 | Glassdoor <info@glassdoor.com> | legitimate | 0.2348 | Did you leave money on the table?
+2025-12-06 01:49:30 [INFO] 2721 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 01:49:30 [INFO] 2722 | LinkedIn via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3632 | The tools, trends, and stories shaping your next career move
+2025-12-06 01:49:31 [INFO] 2723 | Gemini via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3551 | Bank of America and Vanguard Warm to Crypto, Goldman Strikes Deal
+ for ETF Issuer, and Strategy Sets Up $1.4B Reserve
+2025-12-06 01:49:31 [INFO] 2724 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.394 | Bring out your best writing with Paperpal
+2025-12-06 01:49:32 [INFO] 2725 | "Coursera" <Coursera@m.learn.coursera.org> | phishing | 0.5344 | New for you: Practical Machine Learning: Foundations to Neural Networks
+2025-12-06 01:49:32 [INFO] 2726 | Google <no-reply@accounts.google.com> | phishing | 0.9264 | Security alert
+2025-12-06 01:49:33 [INFO] 2727 | Google <no-reply@accounts.google.com> | phishing | 0.9385 | Security alert
+2025-12-06 01:49:34 [INFO] 2728 | Microsoft account team
+	<account-security-noreply@accountprotection.microsoft.com> | phishing | 0.9023 | Personal Microsoft account password reset
+2025-12-06 01:49:35 [INFO] Completed IMAP fetch_and_predict run
+2025-12-06 08:59:46 [INFO] Starting IMAP fetch_and_predict run
+2025-12-06 08:59:50 [INFO] 2632 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5178 | 🚀 India’s GDP Rises; Tata Motors & Mahindra Shine, GST Collections Decline
+2025-12-06 08:59:51 [INFO] 2633 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7929 | Match Your Resume to Job Description in 4 Steps
+2025-12-06 08:59:51 [INFO] 2634 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.7699 | Amar, your order has been recieved
+2025-12-06 08:59:52 [INFO] 2635 | "Instagram" <security@mail.instagram.com> | phishing | 0.9445 | sanja.na31, we've made it easy to get back on Instagram
+2025-12-06 08:59:53 [INFO] 2636 | "McAfee" <info@protect.mcafee.com> | phishing | 0.9598 | Your online connection may be exposed!
+2025-12-06 08:59:53 [INFO] 2637 | Amay Vikram Singh <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 08:59:54 [INFO] 2638 | Naukri Campus <alertnc@naukri.com> | legitimate | 0.4647 | Feedback on your Naukri job applies done since last week
+2025-12-06 08:59:55 [INFO] 2639 | Apple <News@InsideApple.Apple.com> | phishing | 0.5795 | 🎁 Make their holiday one of a kind.
+2025-12-06 08:59:56 [INFO] 2640 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 08:59:56 [INFO] 2641 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 08:59:57 [INFO] 2642 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 08:59:57 [INFO] 2643 | Epic Games <help@acct.epicgames.com> | phishing | 0.6638 | Your two-factor sign in code 
+2025-12-06 08:59:58 [INFO] 2644 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “software engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 08:59:58 [INFO] 2645 | LinkedIn <notifications-noreply@linkedin.com> | legitimate | 0.4622 | Amar, your weekly recap: 36 impressions last week
+2025-12-06 08:59:59 [INFO] 2646 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “engineer”: Crossing Hurdles - Software Engineer | Remote | Mercor and more
+2025-12-06 09:00:00 [INFO] 2647 | LinkedIn <updates-noreply@linkedin.com> | legitimate | 0.2144 | AMAR KUMAR recently posted
+2025-12-06 09:00:00 [INFO] 2648 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.3375 | 💥 Airtel, HUL & Maruti in Focus; SPARC Jumps 20%, Bajaj Housing Tanks
+2025-12-06 09:00:01 [INFO] 2649 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.5061 | Resume AI
+2025-12-06 09:00:01 [INFO] 2650 | Social Media DSU <social-media@dsu.edu.in> | legitimate | 0.1494 | Share Your Achievements with the DSU Social Media Team
+2025-12-06 09:00:02 [INFO] 2651 | Naukri Campus <engagenc@naukri.com> | phishing | 0.5061 | Amar Your resume is ready to download!
+2025-12-06 09:00:02 [INFO] 2652 | OneDrive <no-reply@onedrive.com> | phishing | 0.5061 | Many files were recently deleted from your OneDrive
+2025-12-06 09:00:03 [INFO] 2653 | Bhagyalaxmi Sanikop via LinkedIn <invitations@linkedin.com> | legitimate | 0.3677 | Bhagyalaxmi accepted your invitation, explore their network
+2025-12-06 09:00:04 [INFO] 2654 | Google <no-reply@accounts.google.com> | phishing | 0.881 | Security alert
+2025-12-06 09:00:04 [INFO] 2655 | Naukri Alerts <eventnc@naukri.com> | phishing | 0.6731 | New Experts speak session is open for registration !!
+2025-12-06 09:00:05 [INFO] 2656 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 09:00:23 [INFO] 2657 | "Ms. Dharshini M" <dharshini@dsu.edu.in> | phishing | 0.7281 | Study in Austria – Your Pathway to a Global Career
+2025-12-06 09:00:24 [INFO] 2658 | Naukri Campus <eventnc@naukri.com> | phishing | 0.6731 | Amar, new contests for you to try
+2025-12-06 09:00:25 [INFO] 2659 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 09:00:25 [INFO] 2660 | Canva <marketing@engage.canva.com> | phishing | 0.6837 | Turn your designs into thoughtful holiday gifts 🎁
+2025-12-06 09:00:26 [INFO] 2661 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: Microsoft - Software Engineer and more
+2025-12-06 09:00:27 [INFO] 2662 | Angel One <campaign@angelbroking.in> | phishing | 0.5629 | 📈 Stay market-ready — here’s your update
+2025-12-06 09:00:27 [INFO] 2663 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.6764 | The ‘hidden’ language employers want you to speak
+2025-12-06 09:00:28 [INFO] 2664 | Glassdoor <noreply@glassdoor.com> | phishing | 0.9396 | Finish setting up your account
+2025-12-06 09:00:28 [INFO] 2665 | Perplexity <team@mail.perplexity.ai> | phishing | 0.7501 | See what Comet for Android can do
+2025-12-06 09:00:29 [INFO] 2666 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6611 | Senior Full Stack Engineer at Optum and 10 more jobs in Bengaluru for
+ you. Apply Now.
+2025-12-06 09:00:29 [INFO] 2667 | Cutshort Team <notify@cutshort.io> | phishing | 0.875 | Amar, here's your OTP to verify your email address on Cutshort
+2025-12-06 09:00:30 [INFO] 2668 | Andrew Rose <andrew+69302ee512e19e829806fe2c@reply.cutshort.io> | phishing | 0.5061 | RE: LLM Internship (Remote) at Springer Capital
+2025-12-06 09:00:30 [INFO] 2669 | Synorus Admin <synorus+6930300412e19e82980f4222@reply.cutshort.io> | phishing | 0.5061 | RE: AI Engineer Intern (Face-Swap / Deepfake Video Model) at Synorus
+2025-12-06 09:00:31 [INFO] 2670 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7917 | Sr Software Engineer (Cloud Security) at Invicta Learning and 11 more
+ jobs in Bengaluru for you. Apply Now.
+2025-12-06 09:00:31 [INFO] 2671 | Ahana Chatterjee <ahana+6930303412e19e82981150b1@reply.cutshort.io> | phishing | 0.5061 | RE: Developer Intern at Zenawn
+2025-12-06 09:00:32 [INFO] 2672 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Your resume, your way
+2025-12-06 09:00:32 [INFO] 2673 | Glassdoor <info@glassdoor.com> | legitimate | 0.2661 | Welcome! Want even more good stuff?
+2025-12-06 09:00:33 [INFO] 2674 | "Nikunj from Cutshort" <nikunj@cutshort.io> | phishing | 0.5627 | Welcome to Cutshort, Amar
+2025-12-06 09:00:33 [INFO] 2675 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.5061 | Amar H M, Top Openings for Intern
+2025-12-06 09:00:34 [INFO] 2676 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 09:00:34 [INFO] 2677 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 09:00:35 [INFO] 2678 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Engineer in Bengaluru, Karnataka, India
+ has been created
+2025-12-06 09:00:36 [INFO] 2679 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 09:00:36 [INFO] 2680 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Software Engineer in Bengaluru, Karnataka,
+ India has been created
+2025-12-06 09:00:37 [INFO] 2681 | Ananya Vishwanath <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 09:00:37 [INFO] 2682 | Bank Of India <promotions@communications.bankofindia.co.in> | phishing | 0.7481 | Cyber Security Awareness: Cyber Jagarookta Diwas December 2025
+2025-12-06 09:00:38 [INFO] 2683 | Sandli Srivastava <sandli+6930f9f3a816910dfff8ed29@reply.cutshort.io> | phishing | 0.5061 | Software Craftsperson Internship at Incubyte
+2025-12-06 09:00:38 [INFO] 2684 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8308 | “engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 09:00:39 [INFO] 2685 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineering and more
+2025-12-06 09:00:39 [INFO] 2686 | Andrew Rose <andrew+6931345c197646469b79223a@reply.cutshort.io> | phishing | 0.5061 | Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 09:00:40 [INFO] 2687 | Khushi Kesharwani <invitations@linkedin.com> | legitimate | 0.4835 | You have an invitation
+2025-12-06 09:00:41 [INFO] 2688 | Sarah from pdfFiller <sarah@pdffiller.com> | phishing | 0.6587 | Collaborative PDF editing—Simplified ✅
+2025-12-06 09:00:41 [INFO] 2689 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: Wake Up Whistle - Data Analyst Associate – Data Cleaning • Visualization Design • Trend Forecasting and more
+2025-12-06 09:00:42 [INFO] 2690 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.8435 | Why 88% of resumes never get read
+2025-12-06 09:00:43 [INFO] 2691 | Internshala <student@internshala.com> | phishing | 0.6649 | Your profile is a perfect match for these 'Web Development' opportunities
+2025-12-06 09:00:43 [INFO] 2692 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: SAP - Machine Learning Engineer and more
+2025-12-06 09:00:45 [INFO] 2693 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6918 | Sr Machine Learning Engineer at PayPal and 10 more jobs in Bengaluru
+ for you. Apply Now.
+2025-12-06 09:00:45 [INFO] 2694 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5124 | 🚀 Top Headlines: India Cements jumps, Petronet inks ONGC deal, IndiGo hit by mass cancellations
+2025-12-06 09:00:45 [INFO] 2695 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7541 | Faster applications, better results
+2025-12-06 09:00:46 [INFO] 2696 | Glassdoor <info@glassdoor.com> | phishing | 0.5324 | Going somewhere? Take Glassdoor with you.
+2025-12-06 09:00:47 [INFO] 2697 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: SalesDuo, Inc. - Software Engineer and more
+2025-12-06 09:00:47 [INFO] 2698 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.753 | Update: Your CV needs to be updated to add this..
+2025-12-06 09:00:48 [INFO] 2699 | Roboflow Growth Team <growth@roboflow.com> | legitimate | 0.4127 | One day remaining on your Premium trial
+2025-12-06 09:00:48 [INFO] 2700 | Roboflow Team <hello@roboflow.com> | legitimate | 0.3084 | Use Gemini 3 Pro free on playground
+2025-12-06 09:00:49 [INFO] 2701 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 09:00:49 [INFO] 2702 | Google <no-reply@accounts.google.com> | phishing | 0.9089 | Critical security alert
+2025-12-06 09:00:50 [INFO] 2703 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.7657 | “engineer”: CodeRound AI - AI Engineer ($40K - $55K) and more
+2025-12-06 09:00:50 [INFO] 2704 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 09:00:51 [INFO] 2705 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 09:00:51 [INFO] 2706 | GitHub <noreply@github.com> | legitimate | 0.4664 | [GitHub] Sudo email verification code
+2025-12-06 09:00:52 [INFO] 2707 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8344 | “software engineer”: Microsoft - Software Engineer II and more
+2025-12-06 09:00:53 [INFO] 2708 | LinkedIn <jobs-noreply@linkedin.com> | phishing | 0.6837 | Your application was viewed by HEProAI
+2025-12-06 09:00:53 [INFO] 2709 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.6731 | Amar H M, New Job Opportunities for Intern
+2025-12-06 09:00:54 [INFO] 2710 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 09:00:54 [INFO] 2711 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Software Craftsperson Internship at Incubyte
+2025-12-06 09:00:55 [INFO] 2712 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.3544 | Welcome to Paperpal! Let's get you started
+2025-12-06 09:00:56 [INFO] 2713 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8497 | “engineer”: Intel Corporation - Product Development Engineer and more
+2025-12-06 09:00:57 [INFO] 2714 | Internshala <student@internshala.com> | phishing | 0.5316 | Top opportunities of the week matching your profile
+2025-12-06 09:00:58 [INFO] 2715 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SuperKalam (YC W23) - AI/ML research (Internship) and more
+2025-12-06 09:00:58 [INFO] 2716 | Shell GO+ <goplusindia@shell.com> | phishing | 0.5709 | Take full advantage of your rewards with Shell Asia app
+2025-12-06 09:00:59 [INFO] 2717 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7079 | Machine Learning Engineer at Yo quiero Yo puedo and 10 more jobs in
+ Bengaluru for you. Apply Now.
+2025-12-06 09:01:00 [INFO] 2718 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.2904 | 📉 RBI Cuts Rates, Renewables Rise, HUL & IndiGo Under Pressure
+2025-12-06 09:01:00 [INFO] 2719 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Track the Status of Every Job Application with Teal
+2025-12-06 09:01:01 [INFO] 2720 | Glassdoor <info@glassdoor.com> | legitimate | 0.2348 | Did you leave money on the table?
+2025-12-06 09:01:01 [INFO] 2721 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 09:01:02 [INFO] 2722 | LinkedIn via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3632 | The tools, trends, and stories shaping your next career move
+2025-12-06 09:01:02 [INFO] 2723 | Gemini via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3551 | Bank of America and Vanguard Warm to Crypto, Goldman Strikes Deal
+ for ETF Issuer, and Strategy Sets Up $1.4B Reserve
+2025-12-06 09:01:03 [INFO] 2724 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.394 | Bring out your best writing with Paperpal
+2025-12-06 09:01:03 [INFO] 2725 | "Coursera" <Coursera@m.learn.coursera.org> | phishing | 0.5344 | New for you: Practical Machine Learning: Foundations to Neural Networks
+2025-12-06 09:01:04 [INFO] 2726 | Google <no-reply@accounts.google.com> | phishing | 0.9264 | Security alert
+2025-12-06 09:01:04 [INFO] 2727 | Google <no-reply@accounts.google.com> | phishing | 0.9385 | Security alert
+2025-12-06 09:01:05 [INFO] 2728 | Microsoft account team
+	<account-security-noreply@accountprotection.microsoft.com> | phishing | 0.9023 | Personal Microsoft account password reset
+2025-12-06 09:01:06 [INFO] 2729 | Naukri <info@naukri.com> | phishing | 0.5061 | You applied for 1 job on 05 Dec
+2025-12-06 09:01:06 [INFO] 2730 | GitHub <noreply@github.com> | legitimate | 0.4664 | [GitHub] Sudo email verification code
+2025-12-06 09:01:07 [INFO] 2731 | AmbitionBox <no-reply@ambitionbox.com> | phishing | 0.5061 | Reviews, Salaries & Interview Questions of Companies you Applied to
+2025-12-06 09:01:08 [INFO] Completed IMAP fetch_and_predict run
+2025-12-06 09:02:44 [INFO] Starting IMAP fetch_and_predict run
+2025-12-06 09:02:48 [INFO] 2632 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5178 | 🚀 India’s GDP Rises; Tata Motors & Mahindra Shine, GST Collections Decline
+2025-12-06 09:02:48 [INFO] 2633 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7929 | Match Your Resume to Job Description in 4 Steps
+2025-12-06 09:02:49 [INFO] 2634 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.7699 | Amar, your order has been recieved
+2025-12-06 09:02:50 [INFO] 2635 | "Instagram" <security@mail.instagram.com> | phishing | 0.9445 | sanja.na31, we've made it easy to get back on Instagram
+2025-12-06 09:02:50 [INFO] 2636 | "McAfee" <info@protect.mcafee.com> | phishing | 0.9598 | Your online connection may be exposed!
+2025-12-06 09:02:51 [INFO] 2637 | Amay Vikram Singh <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 09:02:52 [INFO] 2638 | Naukri Campus <alertnc@naukri.com> | legitimate | 0.4647 | Feedback on your Naukri job applies done since last week
+2025-12-06 09:02:52 [INFO] 2639 | Apple <News@InsideApple.Apple.com> | phishing | 0.5795 | 🎁 Make their holiday one of a kind.
+2025-12-06 09:02:53 [INFO] 2640 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 09:02:53 [INFO] 2641 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 09:02:54 [INFO] 2642 | Epic Games <help@acct.epicgames.com> | phishing | 0.7188 | Your Security Code 
+2025-12-06 09:02:54 [INFO] 2643 | Epic Games <help@acct.epicgames.com> | phishing | 0.6638 | Your two-factor sign in code 
+2025-12-06 09:02:55 [INFO] 2644 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “software engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 09:02:56 [INFO] 2645 | LinkedIn <notifications-noreply@linkedin.com> | legitimate | 0.4622 | Amar, your weekly recap: 36 impressions last week
+2025-12-06 09:02:56 [INFO] 2646 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8412 | “engineer”: Crossing Hurdles - Software Engineer | Remote | Mercor and more
+2025-12-06 09:02:57 [INFO] 2647 | LinkedIn <updates-noreply@linkedin.com> | legitimate | 0.2144 | AMAR KUMAR recently posted
+2025-12-06 09:02:58 [INFO] 2648 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.3375 | 💥 Airtel, HUL & Maruti in Focus; SPARC Jumps 20%, Bajaj Housing Tanks
+2025-12-06 09:02:58 [INFO] 2649 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.5061 | Resume AI
+2025-12-06 09:02:59 [INFO] 2650 | Social Media DSU <social-media@dsu.edu.in> | legitimate | 0.1494 | Share Your Achievements with the DSU Social Media Team
+2025-12-06 09:02:59 [INFO] 2651 | Naukri Campus <engagenc@naukri.com> | phishing | 0.5061 | Amar Your resume is ready to download!
+2025-12-06 09:03:00 [INFO] 2652 | OneDrive <no-reply@onedrive.com> | phishing | 0.5061 | Many files were recently deleted from your OneDrive
+2025-12-06 09:03:00 [INFO] 2653 | Bhagyalaxmi Sanikop via LinkedIn <invitations@linkedin.com> | legitimate | 0.3677 | Bhagyalaxmi accepted your invitation, explore their network
+2025-12-06 09:03:01 [INFO] 2654 | Google <no-reply@accounts.google.com> | phishing | 0.881 | Security alert
+2025-12-06 09:03:01 [INFO] 2655 | Naukri Alerts <eventnc@naukri.com> | phishing | 0.6731 | New Experts speak session is open for registration !!
+2025-12-06 09:03:02 [INFO] 2656 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SKOOLLAGE - Cybersecurity Intern and more
+2025-12-06 09:03:20 [INFO] 2657 | "Ms. Dharshini M" <dharshini@dsu.edu.in> | phishing | 0.7281 | Study in Austria – Your Pathway to a Global Career
+2025-12-06 09:03:21 [INFO] 2658 | Naukri Campus <eventnc@naukri.com> | phishing | 0.6731 | Amar, new contests for you to try
+2025-12-06 09:03:22 [INFO] 2659 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 09:03:22 [INFO] 2660 | Canva <marketing@engage.canva.com> | phishing | 0.6837 | Turn your designs into thoughtful holiday gifts 🎁
+2025-12-06 09:03:23 [INFO] 2661 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: Microsoft - Software Engineer and more
+2025-12-06 09:03:23 [INFO] 2662 | Angel One <campaign@angelbroking.in> | phishing | 0.5629 | 📈 Stay market-ready — here’s your update
+2025-12-06 09:03:24 [INFO] 2663 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.6764 | The ‘hidden’ language employers want you to speak
+2025-12-06 09:03:24 [INFO] 2664 | Glassdoor <noreply@glassdoor.com> | phishing | 0.9396 | Finish setting up your account
+2025-12-06 09:03:25 [INFO] 2665 | Perplexity <team@mail.perplexity.ai> | phishing | 0.7501 | See what Comet for Android can do
+2025-12-06 09:03:26 [INFO] 2666 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6611 | Senior Full Stack Engineer at Optum and 10 more jobs in Bengaluru for
+ you. Apply Now.
+2025-12-06 09:03:26 [INFO] 2667 | Cutshort Team <notify@cutshort.io> | phishing | 0.875 | Amar, here's your OTP to verify your email address on Cutshort
+2025-12-06 09:03:27 [INFO] 2668 | Andrew Rose <andrew+69302ee512e19e829806fe2c@reply.cutshort.io> | phishing | 0.5061 | RE: LLM Internship (Remote) at Springer Capital
+2025-12-06 09:03:27 [INFO] 2669 | Synorus Admin <synorus+6930300412e19e82980f4222@reply.cutshort.io> | phishing | 0.5061 | RE: AI Engineer Intern (Face-Swap / Deepfake Video Model) at Synorus
+2025-12-06 09:03:28 [INFO] 2670 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7917 | Sr Software Engineer (Cloud Security) at Invicta Learning and 11 more
+ jobs in Bengaluru for you. Apply Now.
+2025-12-06 09:03:29 [INFO] 2671 | Ahana Chatterjee <ahana+6930303412e19e82981150b1@reply.cutshort.io> | phishing | 0.5061 | RE: Developer Intern at Zenawn
+2025-12-06 09:03:29 [INFO] 2672 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Your resume, your way
+2025-12-06 09:03:30 [INFO] 2673 | Glassdoor <info@glassdoor.com> | legitimate | 0.2661 | Welcome! Want even more good stuff?
+2025-12-06 09:03:30 [INFO] 2674 | "Nikunj from Cutshort" <nikunj@cutshort.io> | phishing | 0.5627 | Welcome to Cutshort, Amar
+2025-12-06 09:03:31 [INFO] 2675 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.5061 | Amar H M, Top Openings for Intern
+2025-12-06 09:03:31 [INFO] 2676 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 09:03:32 [INFO] 2677 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 09:03:33 [INFO] 2678 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Engineer in Bengaluru, Karnataka, India
+ has been created
+2025-12-06 09:03:33 [INFO] 2679 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 09:03:34 [INFO] 2680 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8431 | Amar: your job alert for Software Engineer in Bengaluru, Karnataka,
+ India has been created
+2025-12-06 09:03:35 [INFO] 2681 | Ananya Vishwanath <invitations@linkedin.com> | phishing | 0.5653 | You have an invitation
+2025-12-06 09:03:35 [INFO] 2682 | Bank Of India <promotions@communications.bankofindia.co.in> | phishing | 0.7481 | Cyber Security Awareness: Cyber Jagarookta Diwas December 2025
+2025-12-06 09:03:36 [INFO] 2683 | Sandli Srivastava <sandli+6930f9f3a816910dfff8ed29@reply.cutshort.io> | phishing | 0.5061 | Software Craftsperson Internship at Incubyte
+2025-12-06 09:03:36 [INFO] 2684 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8308 | “engineer”: Crossover - AI Software Engineer, Trilogy (Remote) - $100,000/year USD and more
+2025-12-06 09:03:38 [INFO] 2685 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineering and more
+2025-12-06 09:03:38 [INFO] 2686 | Andrew Rose <andrew+6931345c197646469b79223a@reply.cutshort.io> | phishing | 0.5061 | Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 09:03:39 [INFO] 2687 | Khushi Kesharwani <invitations@linkedin.com> | legitimate | 0.4835 | You have an invitation
+2025-12-06 09:03:39 [INFO] 2688 | Sarah from pdfFiller <sarah@pdffiller.com> | phishing | 0.6587 | Collaborative PDF editing—Simplified ✅
+2025-12-06 09:03:40 [INFO] 2689 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: Wake Up Whistle - Data Analyst Associate – Data Cleaning • Visualization Design • Trend Forecasting and more
+2025-12-06 09:03:41 [INFO] 2690 | Resume Worded <contact@mautem.resumeworded.com> | phishing | 0.8435 | Why 88% of resumes never get read
+2025-12-06 09:03:41 [INFO] 2691 | Internshala <student@internshala.com> | phishing | 0.6649 | Your profile is a perfect match for these 'Web Development' opportunities
+2025-12-06 09:03:42 [INFO] 2692 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “engineer”: SAP - Machine Learning Engineer and more
+2025-12-06 09:03:43 [INFO] 2693 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.6918 | Sr Machine Learning Engineer at PayPal and 10 more jobs in Bengaluru
+ for you. Apply Now.
+2025-12-06 09:03:44 [INFO] 2694 | Market Charcha by Angel One <mailer@angelbroking.in> | phishing | 0.5124 | 🚀 Top Headlines: India Cements jumps, Petronet inks ONGC deal, IndiGo hit by mass cancellations
+2025-12-06 09:03:44 [INFO] 2695 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7541 | Faster applications, better results
+2025-12-06 09:03:45 [INFO] 2696 | Glassdoor <info@glassdoor.com> | phishing | 0.5324 | Going somewhere? Take Glassdoor with you.
+2025-12-06 09:03:46 [INFO] 2697 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: SalesDuo, Inc. - Software Engineer and more
+2025-12-06 09:03:46 [INFO] 2698 | Internshala Trainings <trainings@mail.internshala.com> | phishing | 0.753 | Update: Your CV needs to be updated to add this..
+2025-12-06 09:03:47 [INFO] 2699 | Roboflow Growth Team <growth@roboflow.com> | legitimate | 0.4127 | One day remaining on your Premium trial
+2025-12-06 09:03:47 [INFO] 2700 | Roboflow Team <hello@roboflow.com> | legitimate | 0.3084 | Use Gemini 3 Pro free on playground
+2025-12-06 09:03:48 [INFO] 2701 | LinkedIn <security-noreply@linkedin.com> | phishing | 0.8952 | Amar, your profile photo was changed
+2025-12-06 09:03:48 [INFO] 2702 | Google <no-reply@accounts.google.com> | phishing | 0.9089 | Critical security alert
+2025-12-06 09:03:49 [INFO] 2703 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.7657 | “engineer”: CodeRound AI - AI Engineer ($40K - $55K) and more
+2025-12-06 09:03:50 [INFO] 2704 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 09:03:50 [INFO] 2705 | sanjay224488 <noreply@github.com> | legitimate | 0.1788 | sanjay224488 invited you to sanjay224488/Team15-Sanjay.github.io
+2025-12-06 09:03:51 [INFO] 2706 | GitHub <noreply@github.com> | legitimate | 0.4664 | [GitHub] Sudo email verification code
+2025-12-06 09:03:51 [INFO] 2707 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8344 | “software engineer”: Microsoft - Software Engineer II and more
+2025-12-06 09:03:52 [INFO] 2708 | LinkedIn <jobs-noreply@linkedin.com> | phishing | 0.6837 | Your application was viewed by HEProAI
+2025-12-06 09:03:53 [INFO] 2709 | Naukri Campus Jobs <recommendationnc@naukri.com> | phishing | 0.6731 | Amar H M, New Job Opportunities for Intern
+2025-12-06 09:03:53 [INFO] 2710 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “software engineer”: Microsoft - Software Engineer and more
+2025-12-06 09:03:54 [INFO] 2711 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Software Craftsperson Internship at Incubyte
+2025-12-06 09:03:54 [INFO] 2712 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.3544 | Welcome to Paperpal! Let's get you started
+2025-12-06 09:03:55 [INFO] 2713 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8497 | “engineer”: Intel Corporation - Product Development Engineer and more
+2025-12-06 09:03:56 [INFO] 2714 | Internshala <student@internshala.com> | phishing | 0.5316 | Top opportunities of the week matching your profile
+2025-12-06 09:03:56 [INFO] 2715 | LinkedIn Job Alerts <jobalerts-noreply@linkedin.com> | phishing | 0.8162 | “Student”: SuperKalam (YC W23) - AI/ML research (Internship) and more
+2025-12-06 09:03:57 [INFO] 2716 | Shell GO+ <goplusindia@shell.com> | phishing | 0.5709 | Take full advantage of your rewards with Shell Asia app
+2025-12-06 09:03:58 [INFO] 2717 | Glassdoor Jobs <noreply@glassdoor.com> | phishing | 0.7079 | Machine Learning Engineer at Yo quiero Yo puedo and 10 more jobs in
+ Bengaluru for you. Apply Now.
+2025-12-06 09:03:58 [INFO] 2718 | Market Charcha by Angel One <mailer@angelbroking.in> | legitimate | 0.2904 | 📉 RBI Cuts Rates, Renewables Rise, HUL & IndiGo Under Pressure
+2025-12-06 09:03:59 [INFO] 2719 | David Fano <david.fano@hello.tealhq.com> | phishing | 0.7699 | Track the Status of Every Job Application with Teal
+2025-12-06 09:03:59 [INFO] 2720 | Glassdoor <info@glassdoor.com> | legitimate | 0.2348 | Did you leave money on the table?
+2025-12-06 09:04:00 [INFO] 2721 | Voila - your professional assistant <voila@alerts.cutshort.io> | legitimate | 0.3075 | Reminder: Artificial Intelligence and Machine Language Data Science - Remote at Springer Capital
+2025-12-06 09:04:00 [INFO] 2722 | LinkedIn via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3632 | The tools, trends, and stories shaping your next career move
+2025-12-06 09:04:01 [INFO] 2723 | Gemini via LinkedIn <newsletters-noreply@linkedin.com> | legitimate | 0.3551 | Bank of America and Vanguard Warm to Crypto, Goldman Strikes Deal
+ for ETF Issuer, and Strategy Sets Up $1.4B Reserve
+2025-12-06 09:04:01 [INFO] 2724 | Team Paperpal <hello@info.paperpal.com> | legitimate | 0.394 | Bring out your best writing with Paperpal
+2025-12-06 09:04:02 [INFO] 2725 | "Coursera" <Coursera@m.learn.coursera.org> | phishing | 0.5344 | New for you: Practical Machine Learning: Foundations to Neural Networks
+2025-12-06 09:04:02 [INFO] 2726 | Google <no-reply@accounts.google.com> | phishing | 0.9264 | Security alert
+2025-12-06 09:04:03 [INFO] 2727 | Google <no-reply@accounts.google.com> | phishing | 0.9385 | Security alert
+2025-12-06 09:04:03 [INFO] 2728 | Microsoft account team
+	<account-security-noreply@accountprotection.microsoft.com> | phishing | 0.9023 | Personal Microsoft account password reset
+2025-12-06 09:04:04 [INFO] 2729 | Naukri <info@naukri.com> | phishing | 0.5061 | You applied for 1 job on 05 Dec
+2025-12-06 09:04:05 [INFO] 2730 | GitHub <noreply@github.com> | legitimate | 0.4664 | [GitHub] Sudo email verification code
+2025-12-06 09:04:05 [INFO] 2731 | AmbitionBox <no-reply@ambitionbox.com> | phishing | 0.5061 | Reviews, Salaries & Interview Questions of Companies you Applied to
+2025-12-06 09:04:06 [INFO] Completed IMAP fetch_and_predict run

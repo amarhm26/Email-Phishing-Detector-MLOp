@@ -1,0 +1,12 @@
+streamlit
+pandas
+scikit-learn
+numpy
+python-dotenv
+joblib
+loguru
+matplotlib
+seaborn
+tensorflow
+uvicorn
+fastapi
